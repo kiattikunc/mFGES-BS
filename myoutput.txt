@@ -1,0 +1,4409 @@
+
+Triple: 4 2 10 and sepset by skelet:  
+a: S =   - pval = 2.193748e-93 
+a: S = 2  - pval = 0.1148498 
+a: S = 13  - pval = 1.978686e-46 
+a: S = 2 13  - pval = 0.4356557 
+a: S = 29  - pval = 2.967813e-81 
+a: S = 2 29  - pval = 0.2852503 
+a: S = 13 29  - pval = 1.200472e-36 
+a: S = 2 13 29  - pval = 0.9941006 
+a: S = 31  - pval = 3.580928e-127 
+a: S = 2 31  - pval = 0.2704697 
+a: S = 13 31  - pval = 2.298172e-35 
+a: S = 2 13 31  - pval = 0.9999472 
+a: S = 29 31  - pval = 8.439809e-110 
+a: S = 2 29 31  - pval = 0.9999058 
+a: S = 13 29 31  - pval = 3.103895e-20 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 2.193748e-93 
+c: S = 2  - pval = 0.1148498 
+c: S = 33  - pval = 3.915956e-30 
+c: S = 2 33  - pval = 0.8913353 
+
+Count: 10  N- 10 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 4 2 32 and sepset by skelet:  
+a: S =   - pval = 1.527625e-141 
+a: S = 2  - pval = 0.006156691 
+a: S = 13  - pval = 2.283849e-70 
+a: S = 2 13  - pval = 0.9748846 
+a: S = 29  - pval = 2.538021e-125 
+a: S = 2 29  - pval = 0.7606388 
+a: S = 13 29  - pval = 1.566539e-56 
+a: S = 2 13 29  - pval = 1 
+a: S = 31  - pval = 5.827226e-193 
+a: S = 2 31  - pval = 0.01787639 
+a: S = 13 31  - pval = 4.385609e-61 
+a: S = 2 13 31  - pval = 1 
+a: S = 29 31  - pval = 2.630976e-165 
+a: S = 2 29 31  - pval = 0.999995 
+a: S = 13 29 31  - pval = 1.254738e-35 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 1.527625e-141 
+c: S = 2  - pval = 0.006156691 
+c: S = 19  - pval = 2.889635e-134 
+c: S = 2 19  - pval = 0.056176 
+c: S = 20  - pval = 8.235715e-137 
+c: S = 2 20  - pval = 0.09060782 
+c: S = 19 20  - pval = 9.932183e-126 
+c: S = 2 19 20  - pval = 0.7815325 
+c: S = 28  - pval = 7.274883e-116 
+c: S = 2 28  - pval = 0.9661213 
+c: S = 19 28  - pval = 1.676595e-100 
+c: S = 2 19 28  - pval = 1 
+c: S = 20 28  - pval = 5.122174e-107 
+c: S = 2 20 28  - pval = 0.9999995 
+c: S = 19 20 28  - pval = 4.354818e-84 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 4.699622e-61 
+c: S = 2 33  - pval = 0.250629 
+c: S = 19 33  - pval = 1.490693e-21 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 4.078214e-54 
+c: S = 2 20 33  - pval = 0.9949718 
+c: S = 19 20 33  - pval = 1.189158e-12 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 1.667546e-29 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 0.9242145 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 2.115192e-18 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 22  N- 24 
+prob: 0.9166667 atio=: 0.9166667 
+
+decision: 2 
+
+Triple: 10 2 32 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 33  - pval = 0 
+a: S = 2 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 2  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 2 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 2 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 2 19 20  - pval = 0 
+c: S = 28  - pval = 0 
+c: S = 2 28  - pval = 0 
+c: S = 19 28  - pval = 0 
+c: S = 2 19 28  - pval = 0 
+c: S = 20 28  - pval = 0 
+c: S = 2 20 28  - pval = 0 
+c: S = 19 20 28  - pval = 0 
+c: S = 2 19 20 28  - pval = 1.927653e-314 
+c: S = 33  - pval = 0 
+c: S = 2 33  - pval = 1 
+c: S = 19 33  - pval = 2.604288e-125 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0 
+c: S = 2 20 33  - pval = 1 
+c: S = 19 20 33  - pval = 1.045407e-84 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 2.782388e-253 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 0.4219255 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 1.070312e-200 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 9  N- 11 
+prob: 0.8181818 atio=: 0.8181818 
+
+decision: 2 
+
+Triple: 5 3 31 and sepset by skelet:  
+a: S =   - pval = 2.011582e-52 
+a: S = 3  - pval = 0 
+a: S = 13  - pval = 0.5636356 
+a: S = 3 13  - pval = 0 
+a: S = 30  - pval = 2.190709e-62 
+a: S = 3 30  - pval = 0 
+a: S = 13 30  - pval = 0.1718262 
+a: S = 3 13 30  - pval = 5.699196e-94 
+c: S =   - pval = 2.011582e-52 
+c: S = 3  - pval = 0 
+c: S = 4  - pval = 0.3087566 
+c: S = 3 4  - pval = 0 
+
+Count: 0  N- 3 
+prob: 0 atio=: 0 
+
+decision: 1 
+
+Triple: 2 4 13 and sepset by skelet:  
+a: S =   - pval = 1.027949e-71 
+a: S = 4  - pval = 0.1156302 
+a: S = 10  - pval = 3.119138e-24 
+a: S = 4 10  - pval = 0.3594809 
+a: S = 32  - pval = 2.391839e-05 
+a: S = 4 32  - pval = 0.9571892 
+a: S = 10 32  - pval = 0.6606591 
+a: S = 4 10 32  - pval = 1 
+c: S =   - pval = 1.027949e-71 
+c: S = 4  - pval = 0.1156302 
+c: S = 5  - pval = 6.799331e-34 
+c: S = 4 5  - pval = 0.8021799 
+c: S = 14  - pval = 2.775714e-05 
+c: S = 4 14  - pval = 0.9724315 
+c: S = 5 14  - pval = 0.01092357 
+c: S = 4 5 14  - pval = 0.9999905 
+c: S = 15  - pval = 3.927671e-11 
+c: S = 4 15  - pval = 0.2716356 
+c: S = 5 15  - pval = 4.274298e-05 
+c: S = 4 5 15  - pval = 0.9995997 
+c: S = 14 15  - pval = 0.02466177 
+c: S = 4 14 15  - pval = 0.9896333 
+c: S = 5 14 15  - pval = 0.9999998 
+c: S = 4 5 14 15  - pval = 1 
+c: S = 16  - pval = 7.150716e-08 
+c: S = 4 16  - pval = 0.3818375 
+c: S = 5 16  - pval = 0.01450322 
+c: S = 4 5 16  - pval = 0.9978923 
+c: S = 14 16  - pval = 0.2714377 
+c: S = 4 14 16  - pval = 0.999442 
+c: S = 5 14 16  - pval = 0.9999999 
+c: S = 4 5 14 16  - pval = 1 
+c: S = 15 16  - pval = 0.0007296569 
+c: S = 4 15 16  - pval = 0.9692564 
+c: S = 5 15 16  - pval = 0.930635 
+c: S = 4 5 15 16  - pval = 1 
+c: S = 14 15 16  - pval = 0.9992317 
+c: S = 4 14 15 16  - pval = 1 
+c: S = 5 14 15 16  - pval = 1 
+c: S = 4 5 14 15 16  - pval = 1 
+
+Count: 20  N- 30 
+prob: 0.6666667 atio=: 0.6666667 
+
+decision: 2 
+
+Triple: 2 4 29 and sepset by skelet:  
+a: S =   - pval = 2.724872e-116 
+a: S = 4  - pval = 4.695251e-104 
+a: S = 10  - pval = 1.268773e-86 
+a: S = 4 10  - pval = 9.728895e-78 
+a: S = 32  - pval = 0.4684763 
+a: S = 4 32  - pval = 0.9086898 
+a: S = 10 32  - pval = 0.9999549 
+a: S = 4 10 32  - pval = 1 
+c: S =   - pval = 2.724872e-116 
+c: S = 4  - pval = 4.695251e-104 
+c: S = 19  - pval = 5.411527e-112 
+c: S = 4 19  - pval = 2.753371e-94 
+c: S = 27  - pval = 7.213785e-113 
+c: S = 4 27  - pval = 1.917848e-99 
+c: S = 19 27  - pval = 1.792519e-103 
+c: S = 4 19 27  - pval = 6.519391e-82 
+c: S = 28  - pval = 0.02903257 
+c: S = 4 28  - pval = 0.00114225 
+c: S = 19 28  - pval = 0.3285491 
+c: S = 4 19 28  - pval = 0.5856016 
+c: S = 27 28  - pval = 0.5538503 
+c: S = 4 27 28  - pval = 0.2832416 
+c: S = 19 27 28  - pval = 0.9996686 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 5  N- 11 
+prob: 0.4545455 atio=: 0.4545455 
+
+decision: 1 
+
+Triple: 2 4 31 and sepset by skelet:  
+a: S =   - pval = 0.6347566 
+a: S = 4  - pval = 4.801027e-54 
+a: S = 10  - pval = 0.3374889 
+a: S = 4 10  - pval = 8.013877e-12 
+a: S = 32  - pval = 0.08197031 
+a: S = 4 32  - pval = 0.05145151 
+a: S = 10 32  - pval = 0.6963092 
+a: S = 4 10 32  - pval = 0.9999999 
+c: S =   - pval = 0.6347566 
+c: S = 3  - pval = 0.0003008332 
+c: S = 4  - pval = 4.801027e-54 
+c: S = 3 4  - pval = 1.831863e-37 
+
+Count: 2  N- 7 
+prob: 0.2857143 atio=: 0.2857143 
+
+decision: 1 
+
+Triple: 13 4 29 and sepset by skelet:  
+a: S =   - pval = 2.472281e-06 
+a: S = 4  - pval = 0.1166607 
+a: S = 5  - pval = 0.04281702 
+a: S = 4 5  - pval = 0.5171136 
+a: S = 14  - pval = 0.07181657 
+a: S = 4 14  - pval = 0.940162 
+a: S = 5 14  - pval = 0.8373972 
+a: S = 4 5 14  - pval = 1 
+a: S = 15  - pval = 0.03965132 
+a: S = 4 15  - pval = 0.063594 
+a: S = 5 15  - pval = 0.6818462 
+a: S = 4 5 15  - pval = 0.9996951 
+a: S = 14 15  - pval = 0.7620748 
+a: S = 4 14 15  - pval = 0.9998933 
+a: S = 5 14 15  - pval = 1 
+a: S = 4 5 14 15  - pval = 1 
+a: S = 16  - pval = 3.687919e-05 
+a: S = 4 16  - pval = 0.4781495 
+a: S = 5 16  - pval = 0.232029 
+a: S = 4 5 16  - pval = 0.9999891 
+a: S = 14 16  - pval = 0.8935135 
+a: S = 4 14 16  - pval = 1 
+a: S = 5 14 16  - pval = 1 
+a: S = 4 5 14 16  - pval = 1 
+a: S = 15 16  - pval = 0.05186026 
+a: S = 4 15 16  - pval = 0.9997373 
+a: S = 5 15 16  - pval = 0.9999949 
+a: S = 4 5 15 16  - pval = 1 
+a: S = 14 15 16  - pval = 1 
+a: S = 4 14 15 16  - pval = 1 
+a: S = 5 14 15 16  - pval = 1 
+a: S = 4 5 14 15 16  - pval = 1 
+c: S =   - pval = 2.472281e-06 
+c: S = 4  - pval = 0.1166607 
+c: S = 19  - pval = 2.710675e-05 
+c: S = 4 19  - pval = 0.7113176 
+c: S = 27  - pval = 1.867222e-05 
+c: S = 4 27  - pval = 0.6513823 
+c: S = 19 27  - pval = 0.002910271 
+c: S = 4 19 27  - pval = 0.9998428 
+c: S = 28  - pval = 0.8657328 
+c: S = 4 28  - pval = 0.2712354 
+c: S = 19 28  - pval = 0.9998938 
+c: S = 4 19 28  - pval = 0.9999725 
+c: S = 27 28  - pval = 0.9629396 
+c: S = 4 27 28  - pval = 0.9967521 
+c: S = 19 27 28  - pval = 1 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 24  N- 42 
+prob: 0.5714286 atio=: 0.5714286 
+
+decision: 2 
+
+Triple: 13 4 31 and sepset by skelet:  
+a: S =   - pval = 1.346236e-113 
+a: S = 4  - pval = 0.8870826 
+a: S = 5  - pval = 9.249067e-56 
+a: S = 4 5  - pval = 0.4288436 
+a: S = 14  - pval = 4.646133e-10 
+a: S = 4 14  - pval = 0.5984329 
+a: S = 5 14  - pval = 0.0003058758 
+a: S = 4 5 14  - pval = 0.9978445 
+a: S = 15  - pval = 4.797448e-21 
+a: S = 4 15  - pval = 0.737026 
+a: S = 5 15  - pval = 5.157571e-13 
+a: S = 4 5 15  - pval = 0.8307075 
+a: S = 14 15  - pval = 1.444758e-05 
+a: S = 4 14 15  - pval = 0.9962809 
+a: S = 5 14 15  - pval = 0.9955024 
+a: S = 4 5 14 15  - pval = 1 
+a: S = 16  - pval = 4.429237e-16 
+a: S = 4 16  - pval = 0.3987564 
+a: S = 5 16  - pval = 5.216634e-10 
+a: S = 4 5 16  - pval = 0.9769091 
+a: S = 14 16  - pval = 0.002959613 
+a: S = 4 14 16  - pval = 0.9954811 
+a: S = 5 14 16  - pval = 0.9939702 
+a: S = 4 5 14 16  - pval = 1 
+a: S = 15 16  - pval = 3.408545e-07 
+a: S = 4 15 16  - pval = 0.747069 
+a: S = 5 15 16  - pval = 0.2151848 
+a: S = 4 5 15 16  - pval = 1 
+a: S = 14 15 16  - pval = 0.7195779 
+a: S = 4 14 15 16  - pval = 1 
+a: S = 5 14 15 16  - pval = 1 
+a: S = 4 5 14 15 16  - pval = 1 
+c: S =   - pval = 1.346236e-113 
+c: S = 3  - pval = 1.897041e-186 
+c: S = 4  - pval = 0.8870826 
+c: S = 3 4  - pval = 6.308116e-35 
+
+Count: 17  N- 22 
+prob: 0.7727273 atio=: 0.7727273 
+
+decision: 2 
+
+Triple: 29 4 31 and sepset by skelet:  
+a: S =   - pval = 0.6009849 
+a: S = 4  - pval = 0.0001030539 
+a: S = 19  - pval = 0.4169876 
+a: S = 4 19  - pval = 0.009342257 
+a: S = 27  - pval = 0.3557583 
+a: S = 4 27  - pval = 0.001202661 
+a: S = 19 27  - pval = 0.7781381 
+a: S = 4 19 27  - pval = 0.4064708 
+a: S = 28  - pval = 0.4655258 
+a: S = 4 28  - pval = 0.1404103 
+a: S = 19 28  - pval = 0.9572692 
+a: S = 4 19 28  - pval = 0.9992065 
+a: S = 27 28  - pval = 0.8340313 
+a: S = 4 27 28  - pval = 0.9036624 
+a: S = 19 27 28  - pval = 0.999999 
+a: S = 4 19 27 28  - pval = 1 
+c: S =   - pval = 0.6009849 
+c: S = 3  - pval = 0.4199035 
+c: S = 4  - pval = 0.0001030539 
+c: S = 3 4  - pval = 0.008719175 
+
+Count: 5  N- 15 
+prob: 0.3333333 atio=: 0.3333333 
+
+decision: 1 
+
+Triple: 3 5 13 and sepset by skelet:  
+a: S =   - pval = 1.461418e-132 
+a: S = 5  - pval = 2.992666e-25 
+a: S = 31  - pval = 2.802211e-205 
+a: S = 5 31  - pval = 0.9639418 
+c: S =   - pval = 1.461418e-132 
+c: S = 4  - pval = 4.35014e-116 
+c: S = 5  - pval = 2.992666e-25 
+c: S = 4 5  - pval = 0.3416661 
+c: S = 14  - pval = 5.536632e-28 
+c: S = 4 14  - pval = 2.743975e-27 
+c: S = 5 14  - pval = 0.114984 
+c: S = 4 5 14  - pval = 0.9959959 
+c: S = 15  - pval = 6.576047e-37 
+c: S = 4 15  - pval = 1.355817e-32 
+c: S = 5 15  - pval = 7.013131e-05 
+c: S = 4 5 15  - pval = 0.8539892 
+c: S = 14 15  - pval = 1.880702e-17 
+c: S = 4 14 15  - pval = 6.829401e-09 
+c: S = 5 14 15  - pval = 0.9972956 
+c: S = 4 5 14 15  - pval = 1 
+c: S = 16  - pval = 1.00261e-25 
+c: S = 4 16  - pval = 3.392494e-28 
+c: S = 5 16  - pval = 0.01966754 
+c: S = 4 5 16  - pval = 0.941952 
+c: S = 14 16  - pval = 1.447404e-14 
+c: S = 4 14 16  - pval = 1.194836e-08 
+c: S = 5 14 16  - pval = 0.9999861 
+c: S = 4 5 14 16  - pval = 1 
+c: S = 15 16  - pval = 2.065267e-14 
+c: S = 4 15 16  - pval = 4.780549e-10 
+c: S = 5 15 16  - pval = 0.8226205 
+c: S = 4 5 15 16  - pval = 1 
+c: S = 14 15 16  - pval = 0.00591782 
+c: S = 4 14 15 16  - pval = 0.9979849 
+c: S = 5 14 15 16  - pval = 1 
+c: S = 4 5 14 15 16  - pval = 1 
+
+Count: 15  N- 16 
+prob: 0.9375 atio=: 0.9375 
+
+decision: 2 
+
+Triple: 3 5 30 and sepset by skelet:  
+a: S =   - pval = 4.946549e-283 
+a: S = 5  - pval = 0.006918589 
+a: S = 31  - pval = 0 
+a: S = 5 31  - pval = 0.7294293 
+c: S =   - pval = 4.946549e-283 
+c: S = 5  - pval = 0.006918589 
+c: S = 12  - pval = 5.63066e-228 
+c: S = 5 12  - pval = 0.2700546 
+c: S = 17  - pval = 2.995038e-237 
+c: S = 5 17  - pval = 0.03884078 
+c: S = 12 17  - pval = 1.526045e-178 
+c: S = 5 12 17  - pval = 0.3561653 
+
+Count: 4  N- 4 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 13 5 30 and sepset by skelet:  
+a: S =   - pval = 0.4113576 
+a: S = 4  - pval = 0.4481655 
+a: S = 5  - pval = 2.701327e-263 
+a: S = 4 5  - pval = 2.418273e-186 
+a: S = 14  - pval = 0.5881971 
+a: S = 4 14  - pval = 0.8346478 
+a: S = 5 14  - pval = 1.431398e-65 
+a: S = 4 5 14  - pval = 5.955347e-37 
+a: S = 15  - pval = 0.1230746 
+a: S = 4 15  - pval = 0.3857932 
+a: S = 5 15  - pval = 3.544806e-85 
+a: S = 4 5 15  - pval = 1.33417e-49 
+a: S = 14 15  - pval = 0.09977205 
+a: S = 4 14 15  - pval = 0.9260568 
+a: S = 5 14 15  - pval = 1.010671e-10 
+a: S = 4 5 14 15  - pval = 0.3720384 
+a: S = 16  - pval = 0.5686405 
+a: S = 4 16  - pval = 0.7408214 
+a: S = 5 16  - pval = 7.506323e-90 
+a: S = 4 5 16  - pval = 1.29798e-54 
+a: S = 14 16  - pval = 0.6302423 
+a: S = 4 14 16  - pval = 0.953024 
+a: S = 5 14 16  - pval = 1.097358e-11 
+a: S = 4 5 14 16  - pval = 0.330935 
+a: S = 15 16  - pval = 0.8526585 
+a: S = 4 15 16  - pval = 0.9869876 
+a: S = 5 15 16  - pval = 1.023836e-23 
+a: S = 4 5 15 16  - pval = 9.807901e-05 
+a: S = 14 15 16  - pval = 0.9996491 
+a: S = 4 14 15 16  - pval = 1 
+a: S = 5 14 15 16  - pval = 1 
+a: S = 4 5 14 15 16  - pval = 1 
+c: S =   - pval = 0.4113576 
+c: S = 5  - pval = 2.701327e-263 
+c: S = 12  - pval = 0.806458 
+c: S = 5 12  - pval = 5.149741e-220 
+c: S = 17  - pval = 0.1138399 
+c: S = 5 17  - pval = 3.142742e-228 
+c: S = 12 17  - pval = 0.1726418 
+c: S = 5 12 17  - pval = 1.460914e-171 
+
+Count: 4  N- 24 
+prob: 0.1666667 atio=: 0.1666667 
+
+decision: 1 
+
+Triple: 15 8 16 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 8  - pval = 0 
+a: S = 13  - pval = 0 
+a: S = 8 13  - pval = 0.5727105 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0 
+c: S = 8 13  - pval = 0.5727105 
+
+Count: 2  N- 2 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 2 10 33 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 4  - pval = 0 
+a: S = 10  - pval = 0 
+a: S = 4 10  - pval = 0 
+a: S = 32  - pval = 0.7216021 
+a: S = 4 32  - pval = 0.8059576 
+a: S = 10 32  - pval = 3.122472e-103 
+a: S = 4 10 32  - pval = 7.83904e-66 
+c: S =   - pval = 0 
+c: S = 10  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 10 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 10 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 10 19 20  - pval = 0 
+c: S = 22  - pval = 3.381277e-204 
+c: S = 10 22  - pval = 1.382867e-176 
+c: S = 19 22  - pval = 4.364966e-213 
+c: S = 10 19 22  - pval = 1.414117e-37 
+c: S = 20 22  - pval = 7.189463e-187 
+c: S = 10 20 22  - pval = 2.50231e-131 
+c: S = 19 20 22  - pval = 5.108146e-173 
+c: S = 10 19 20 22  - pval = 0.000289888 
+c: S = 32  - pval = 0.7216021 
+c: S = 10 32  - pval = 3.122472e-103 
+c: S = 19 32  - pval = 1 
+c: S = 10 19 32  - pval = 1.811788e-10 
+c: S = 20 32  - pval = 0.9560886 
+c: S = 10 20 32  - pval = 1.94532e-66 
+c: S = 19 20 32  - pval = 1 
+c: S = 10 19 20 32  - pval = 0.9998358 
+c: S = 22 32  - pval = 1 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 1 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 0 
+c: S = 10 35  - pval = 0 
+c: S = 19 35  - pval = 0 
+c: S = 10 19 35  - pval = 1.139524e-198 
+c: S = 20 35  - pval = 0 
+c: S = 10 20 35  - pval = 3.053413e-279 
+c: S = 19 20 35  - pval = 0 
+c: S = 10 19 20 35  - pval = 5.825519e-100 
+c: S = 22 35  - pval = 2.582419e-153 
+c: S = 10 22 35  - pval = 4.129443e-31 
+c: S = 19 22 35  - pval = 4.052482e-63 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 3.264268e-109 
+c: S = 10 20 22 35  - pval = 0.375887 
+c: S = 19 20 22 35  - pval = 1.337925e-13 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 1 
+c: S = 10 32 35  - pval = 7.534643e-09 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 1 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 1 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 15  N- 33 
+prob: 0.4545455 atio=: 0.4545455 
+
+decision: 1 
+
+Triple: 21 12 30 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 6  - pval = 1.513638e-188 
+a: S = 12  - pval = 0 
+a: S = 6 12  - pval = 2.715836e-135 
+a: S = 17  - pval = 1.158923e-257 
+a: S = 6 17  - pval = 3.310287e-54 
+a: S = 12 17  - pval = 8.04347e-59 
+a: S = 6 12 17  - pval = 8.299618e-07 
+a: S = 25  - pval = 2.734556e-75 
+a: S = 6 25  - pval = 3.582667e-22 
+a: S = 12 25  - pval = 8.082325e-28 
+a: S = 6 12 25  - pval = 1.775053e-06 
+a: S = 17 25  - pval = 2.262419e-49 
+a: S = 6 17 25  - pval = 0.0001906793 
+a: S = 12 17 25  - pval = 4.25175e-05 
+a: S = 6 12 17 25  - pval = 1 
+c: S =   - pval = 0 
+c: S = 5  - pval = 2.091957e-134 
+c: S = 12  - pval = 0 
+c: S = 5 12  - pval = 4.038718e-99 
+c: S = 17  - pval = 1.158923e-257 
+c: S = 5 17  - pval = 8.174343e-77 
+c: S = 12 17  - pval = 8.04347e-59 
+c: S = 5 12 17  - pval = 4.548256e-15 
+
+Count: 1  N- 1 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 4 13 5 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 6.853679e-320 
+a: S = 13  - pval = 0.421906 
+a: S = 2 13  - pval = 0.841197 
+a: S = 29  - pval = 0 
+a: S = 2 29  - pval = 3.428453e-307 
+a: S = 13 29  - pval = 0.597378 
+a: S = 2 13 29  - pval = 0.9998207 
+a: S = 31  - pval = 3.249771e-300 
+a: S = 2 31  - pval = 3.067447e-210 
+a: S = 13 31  - pval = 0.1055285 
+a: S = 2 13 31  - pval = 0.9943261 
+a: S = 29 31  - pval = 1.015451e-283 
+a: S = 2 29 31  - pval = 1.859153e-183 
+a: S = 13 29 31  - pval = 0.9865293 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0 
+c: S = 3  - pval = 0 
+c: S = 13  - pval = 0.421906 
+c: S = 3 13  - pval = 4.178499e-08 
+c: S = 30  - pval = 0 
+c: S = 3 30  - pval = 0 
+c: S = 13 30  - pval = 0.9820408 
+c: S = 3 13 30  - pval = 0.8987967 
+
+Count: 11  N- 11 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 4 13 14 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 13  - pval = 0.8821104 
+a: S = 2 13  - pval = 0.9961207 
+a: S = 29  - pval = 0 
+a: S = 2 29  - pval = 0 
+a: S = 13 29  - pval = 0.9935949 
+a: S = 2 13 29  - pval = 0.9999939 
+a: S = 31  - pval = 0 
+a: S = 2 31  - pval = 1.086944e-322 
+a: S = 13 31  - pval = 0.4124108 
+a: S = 2 13 31  - pval = 0.9910312 
+a: S = 29 31  - pval = 0 
+a: S = 2 29 31  - pval = 2.257965e-289 
+a: S = 13 29 31  - pval = 0.9998471 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0 
+c: S = 9  - pval = 0 
+c: S = 13  - pval = 0.8821104 
+c: S = 9 13  - pval = 0.9923141 
+
+Count: 10  N- 10 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 4 13 15 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 13  - pval = 0.8326789 
+a: S = 2 13  - pval = 0.504706 
+a: S = 29  - pval = 0 
+a: S = 2 29  - pval = 0 
+a: S = 13 29  - pval = 0.4975391 
+a: S = 2 13 29  - pval = 0.9950679 
+a: S = 31  - pval = 0 
+a: S = 2 31  - pval = 4.211839e-281 
+a: S = 13 31  - pval = 0.6828529 
+a: S = 2 13 31  - pval = 0.893246 
+a: S = 29 31  - pval = 0 
+a: S = 2 29 31  - pval = 1.266156e-251 
+a: S = 13 29 31  - pval = 0.9994013 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.8326789 
+c: S = 8 13  - pval = 0.7323581 
+
+Count: 10  N- 10 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 4 13 16 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 13  - pval = 0.7856504 
+a: S = 2 13  - pval = 0.7989813 
+a: S = 29  - pval = 0 
+a: S = 2 29  - pval = 0 
+a: S = 13 29  - pval = 0.5775281 
+a: S = 2 13 29  - pval = 0.9993138 
+a: S = 31  - pval = 0 
+a: S = 2 31  - pval = 5.605465e-295 
+a: S = 13 31  - pval = 0.2627378 
+a: S = 2 13 31  - pval = 0.8810762 
+a: S = 29 31  - pval = 0 
+a: S = 2 29 31  - pval = 5.147794e-269 
+a: S = 13 29 31  - pval = 0.9622274 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.7856504 
+c: S = 8 13  - pval = 0.6779398 
+
+Count: 10  N- 10 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 5 13 14 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 3  - pval = 0 
+a: S = 13  - pval = 0.9482788 
+a: S = 3 13  - pval = 0.9089502 
+a: S = 30  - pval = 0 
+a: S = 3 30  - pval = 0 
+a: S = 13 30  - pval = 0.9994192 
+a: S = 3 13 30  - pval = 0.9999998 
+c: S =   - pval = 0 
+c: S = 9  - pval = 0 
+c: S = 13  - pval = 0.9482788 
+c: S = 9 13  - pval = 0.8933658 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 5 13 15 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 3  - pval = 0 
+a: S = 13  - pval = 0.3237019 
+a: S = 3 13  - pval = 0.5455389 
+a: S = 30  - pval = 0 
+a: S = 3 30  - pval = 0 
+a: S = 13 30  - pval = 0.9744759 
+a: S = 3 13 30  - pval = 0.9999999 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.3237019 
+c: S = 8 13  - pval = 0.8634406 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 5 13 16 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 3  - pval = 0 
+a: S = 13  - pval = 0.2186243 
+a: S = 3 13  - pval = 0.08114403 
+a: S = 30  - pval = 0 
+a: S = 3 30  - pval = 0 
+a: S = 13 30  - pval = 0.9620512 
+a: S = 3 13 30  - pval = 0.9999954 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.2186243 
+c: S = 8 13  - pval = 0.3058471 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 14 13 15 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 9  - pval = 0 
+a: S = 13  - pval = 0.2115885 
+a: S = 9 13  - pval = 0.6993925 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.2115885 
+c: S = 8 13  - pval = 0.4732965 
+
+Count: 4  N- 4 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 14 13 16 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 9  - pval = 0 
+a: S = 13  - pval = 0.2358128 
+a: S = 9 13  - pval = 0.6219076 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0.2358128 
+c: S = 8 13  - pval = 0.546102 
+
+Count: 4  N- 4 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 15 13 16 and sepset by skelet: 8 
+a: S =   - pval = 0 
+a: S = 8  - pval = 0 
+a: S = 13  - pval = 0 
+a: S = 8 13  - pval = 0.5727105 
+c: S =   - pval = 0 
+c: S = 8  - pval = 0 
+c: S = 13  - pval = 0 
+c: S = 8 13  - pval = 0.5727105 
+
+Count: 2  N- 2 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 9 14 13 and sepset by skelet:  
+a: S =   - pval = 0.2988848 
+a: S = 14  - pval = 9.245937e-112 
+c: S =   - pval = 0.2988848 
+c: S = 4  - pval = 0.6820817 
+c: S = 5  - pval = 0.8257397 
+c: S = 4 5  - pval = 0.9344106 
+c: S = 14  - pval = 9.245937e-112 
+c: S = 4 14  - pval = 1.739196e-84 
+c: S = 5 14  - pval = 4.110676e-67 
+c: S = 4 5 14  - pval = 9.343904e-43 
+c: S = 15  - pval = 0.234394 
+c: S = 4 15  - pval = 0.526174 
+c: S = 5 15  - pval = 0.5871021 
+c: S = 4 5 15  - pval = 0.9894455 
+c: S = 14 15  - pval = 6.084619e-60 
+c: S = 4 14 15  - pval = 9.974516e-41 
+c: S = 5 14 15  - pval = 1.874587e-16 
+c: S = 4 5 14 15  - pval = 0.0008319239 
+c: S = 16  - pval = 0.596594 
+c: S = 4 16  - pval = 0.7494858 
+c: S = 5 16  - pval = 0.9312495 
+c: S = 4 5 16  - pval = 0.9994195 
+c: S = 14 16  - pval = 2.900363e-50 
+c: S = 4 14 16  - pval = 9.974084e-33 
+c: S = 5 14 16  - pval = 4.23194e-12 
+c: S = 4 5 14 16  - pval = 0.06372662 
+c: S = 15 16  - pval = 0.3670522 
+c: S = 4 15 16  - pval = 0.9247734 
+c: S = 5 15 16  - pval = 0.9999877 
+c: S = 4 5 15 16  - pval = 1 
+c: S = 14 15 16  - pval = 3.454958e-18 
+c: S = 4 14 15 16  - pval = 3.141751e-05 
+c: S = 5 14 15 16  - pval = 0.9999977 
+c: S = 4 5 14 15 16  - pval = 1 
+
+Count: 3  N- 20 
+prob: 0.15 atio=: 0.15 
+
+decision: 1 
+
+Triple: 8 15 13 and sepset by skelet:  
+a: S =   - pval = 0.06985461 
+a: S = 15  - pval = 5.734864e-144 
+a: S = 16  - pval = 1.060833e-127 
+a: S = 15 16  - pval = 1.682121e-115 
+c: S =   - pval = 0.06985461 
+c: S = 4  - pval = 0.2510604 
+c: S = 5  - pval = 0.1962942 
+c: S = 4 5  - pval = 0.4162994 
+c: S = 14  - pval = 0.6205752 
+c: S = 4 14  - pval = 0.9073899 
+c: S = 5 14  - pval = 0.7235959 
+c: S = 4 5 14  - pval = 0.9998057 
+c: S = 15  - pval = 5.734864e-144 
+c: S = 4 15  - pval = 2.828586e-97 
+c: S = 5 15  - pval = 2.728376e-81 
+c: S = 4 5 15  - pval = 1.582086e-50 
+c: S = 14 15  - pval = 5.759097e-40 
+c: S = 4 14 15  - pval = 2.500038e-28 
+c: S = 5 14 15  - pval = 7.117162e-08 
+c: S = 4 5 14 15  - pval = 0.05099593 
+c: S = 16  - pval = 1.060833e-127 
+c: S = 4 16  - pval = 7.603467e-90 
+c: S = 5 16  - pval = 2.915339e-80 
+c: S = 4 5 16  - pval = 1.536073e-49 
+c: S = 14 16  - pval = 9.434766e-40 
+c: S = 4 14 16  - pval = 1.569779e-27 
+c: S = 5 14 16  - pval = 7.973943e-09 
+c: S = 4 5 14 16  - pval = 0.03215321 
+c: S = 15 16  - pval = 1.682121e-115 
+c: S = 4 15 16  - pval = 1.782545e-80 
+c: S = 5 15 16  - pval = 3.781778e-52 
+c: S = 4 5 15 16  - pval = 1.689123e-24 
+c: S = 14 15 16  - pval = 3.543764e-28 
+c: S = 4 14 15 16  - pval = 4.134756e-13 
+c: S = 5 14 15 16  - pval = 0.8486757 
+c: S = 4 5 14 15 16  - pval = 1 
+
+Count: 3  N- 13 
+prob: 0.2307692 atio=: 0.2307692 
+
+decision: 1 
+
+Triple: 8 16 13 and sepset by skelet:  
+a: S =   - pval = 0.06985461 
+a: S = 15  - pval = 5.734864e-144 
+a: S = 16  - pval = 1.060833e-127 
+a: S = 15 16  - pval = 1.682121e-115 
+c: S =   - pval = 0.06985461 
+c: S = 4  - pval = 0.2510604 
+c: S = 5  - pval = 0.1962942 
+c: S = 4 5  - pval = 0.4162994 
+c: S = 14  - pval = 0.6205752 
+c: S = 4 14  - pval = 0.9073899 
+c: S = 5 14  - pval = 0.7235959 
+c: S = 4 5 14  - pval = 0.9998057 
+c: S = 15  - pval = 5.734864e-144 
+c: S = 4 15  - pval = 2.828586e-97 
+c: S = 5 15  - pval = 2.728376e-81 
+c: S = 4 5 15  - pval = 1.582086e-50 
+c: S = 14 15  - pval = 5.759097e-40 
+c: S = 4 14 15  - pval = 2.500038e-28 
+c: S = 5 14 15  - pval = 7.117162e-08 
+c: S = 4 5 14 15  - pval = 0.05099593 
+c: S = 16  - pval = 1.060833e-127 
+c: S = 4 16  - pval = 7.603467e-90 
+c: S = 5 16  - pval = 2.915339e-80 
+c: S = 4 5 16  - pval = 1.536073e-49 
+c: S = 14 16  - pval = 9.434766e-40 
+c: S = 4 14 16  - pval = 1.569779e-27 
+c: S = 5 14 16  - pval = 7.973943e-09 
+c: S = 4 5 14 16  - pval = 0.03215321 
+c: S = 15 16  - pval = 1.682121e-115 
+c: S = 4 15 16  - pval = 1.782545e-80 
+c: S = 5 15 16  - pval = 3.781778e-52 
+c: S = 4 5 15 16  - pval = 1.689123e-24 
+c: S = 14 15 16  - pval = 3.543764e-28 
+c: S = 4 14 15 16  - pval = 4.134756e-13 
+c: S = 5 14 15 16  - pval = 0.8486757 
+c: S = 4 5 14 15 16  - pval = 1 
+
+Count: 3  N- 13 
+prob: 0.2307692 atio=: 0.2307692 
+
+decision: 1 
+
+Triple: 21 17 30 and sepset by skelet: 12 
+a: S =   - pval = 0 
+a: S = 6  - pval = 1.513638e-188 
+a: S = 12  - pval = 0 
+a: S = 6 12  - pval = 2.715836e-135 
+a: S = 17  - pval = 1.158923e-257 
+a: S = 6 17  - pval = 3.310287e-54 
+a: S = 12 17  - pval = 8.04347e-59 
+a: S = 6 12 17  - pval = 8.299618e-07 
+a: S = 25  - pval = 2.734556e-75 
+a: S = 6 25  - pval = 3.582667e-22 
+a: S = 12 25  - pval = 8.082325e-28 
+a: S = 6 12 25  - pval = 1.775053e-06 
+a: S = 17 25  - pval = 2.262419e-49 
+a: S = 6 17 25  - pval = 0.0001906793 
+a: S = 12 17 25  - pval = 4.25175e-05 
+a: S = 6 12 17 25  - pval = 1 
+c: S =   - pval = 0 
+c: S = 5  - pval = 2.091957e-134 
+c: S = 12  - pval = 0 
+c: S = 5 12  - pval = 4.038718e-99 
+c: S = 17  - pval = 1.158923e-257 
+c: S = 5 17  - pval = 8.174343e-77 
+c: S = 12 17  - pval = 8.04347e-59 
+c: S = 5 12 17  - pval = 4.548256e-15 
+
+Count: 1  N- 1 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 22 19 26 and sepset by skelet:  
+a: S =   - pval = 1.171642e-144 
+a: S = 19  - pval = 8.356773e-125 
+a: S = 33  - pval = 1.515614e-78 
+a: S = 19 33  - pval = 0.9997488 
+c: S =   - pval = 1.171642e-144 
+c: S = 19  - pval = 8.356773e-125 
+c: S = 20  - pval = 2.582304e-152 
+c: S = 19 20  - pval = 2.474641e-107 
+c: S = 35  - pval = 3.395534e-192 
+c: S = 19 35  - pval = 6.382877e-12 
+c: S = 20 35  - pval = 3.070231e-173 
+c: S = 19 20 35  - pval = 1 
+
+Count: 2  N- 2 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 22 19 29 and sepset by skelet:  
+a: S =   - pval = 1.120676e-08 
+a: S = 19  - pval = 8.244766e-05 
+a: S = 33  - pval = 0.01487062 
+a: S = 19 33  - pval = 0.9999996 
+c: S =   - pval = 1.120676e-08 
+c: S = 4  - pval = 3.823886e-13 
+c: S = 19  - pval = 8.244766e-05 
+c: S = 4 19  - pval = 1.097464e-05 
+c: S = 27  - pval = 5.978296e-07 
+c: S = 4 27  - pval = 2.537599e-09 
+c: S = 19 27  - pval = 0.03261832 
+c: S = 4 19 27  - pval = 0.1223218 
+c: S = 28  - pval = 0.0003620034 
+c: S = 4 28  - pval = 7.288163e-05 
+c: S = 19 28  - pval = 0.998722 
+c: S = 4 19 28  - pval = 0.9999951 
+c: S = 27 28  - pval = 0.06307532 
+c: S = 4 27 28  - pval = 0.2373039 
+c: S = 19 27 28  - pval = 1 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 7  N- 10 
+prob: 0.7 atio=: 0.7 
+
+decision: 2 
+
+Triple: 22 19 32 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 19  - pval = 0 
+a: S = 33  - pval = 0 
+a: S = 19 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 2  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 2 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 2 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 2 19 20  - pval = 0 
+c: S = 28  - pval = 0 
+c: S = 2 28  - pval = 0 
+c: S = 19 28  - pval = 0 
+c: S = 2 19 28  - pval = 0 
+c: S = 20 28  - pval = 0 
+c: S = 2 20 28  - pval = 0 
+c: S = 19 20 28  - pval = 0 
+c: S = 2 19 20 28  - pval = 2.257561e-293 
+c: S = 33  - pval = 0 
+c: S = 2 33  - pval = 3.949756e-275 
+c: S = 19 33  - pval = 1 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0 
+c: S = 2 20 33  - pval = 1.724427e-220 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 0 
+c: S = 2 28 33  - pval = 2.668458e-173 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 0 
+c: S = 2 20 28 33  - pval = 1.968458e-86 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 9  N- 9 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 22 19 35 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 19  - pval = 0 
+a: S = 33  - pval = 1.73779e-266 
+a: S = 19 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 1.73779e-266 
+c: S = 7 33  - pval = 8.489217e-183 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 8.844366e-256 
+c: S = 7 20 33  - pval = 1.205557e-155 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 9.125724e-312 
+c: S = 7 26 33  - pval = 5.892917e-141 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 1.651436e-263 
+c: S = 7 20 26 33  - pval = 9.366649e-77 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.329212e-195 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 1.719196e-148 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 1.63431e-168 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 6.104798e-92 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 1.99763e-123 
+c: S = 19 26 34  - pval = 5.404222e-285 
+c: S = 7 19 26 34  - pval = 3.085272e-16 
+c: S = 20 26 34  - pval = 0 
+c: S = 7 20 26 34  - pval = 1.486218e-57 
+c: S = 19 20 26 34  - pval = 4.605784e-157 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 4.832378e-102 
+c: S = 7 33 34  - pval = 0.67775 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 1.736489e-65 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 2.57515e-60 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 18  N- 23 
+prob: 0.7826087 atio=: 0.7826087 
+
+decision: 2 
+
+Triple: 26 19 29 and sepset by skelet:  
+a: S =   - pval = 0.5855975 
+a: S = 19  - pval = 0.002560248 
+a: S = 20  - pval = 0.3602427 
+a: S = 19 20  - pval = 0.1110285 
+a: S = 35  - pval = 0.0007116943 
+a: S = 19 35  - pval = 0.9999952 
+a: S = 20 35  - pval = 0.1013404 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 0.5855975 
+c: S = 4  - pval = 0.2103158 
+c: S = 19  - pval = 0.002560248 
+c: S = 4 19  - pval = 0.1569863 
+c: S = 27  - pval = 0.8448008 
+c: S = 4 27  - pval = 0.6375607 
+c: S = 19 27  - pval = 0.2329016 
+c: S = 4 19 27  - pval = 0.9746987 
+c: S = 28  - pval = 0.1677929 
+c: S = 4 28  - pval = 0.5969529 
+c: S = 19 28  - pval = 0.9956605 
+c: S = 4 19 28  - pval = 1 
+c: S = 27 28  - pval = 0.8981087 
+c: S = 4 27 28  - pval = 0.9997242 
+c: S = 19 27 28  - pval = 1 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 10  N- 21 
+prob: 0.4761905 atio=: 0.4761905 
+
+decision: 1 
+
+Triple: 26 19 32 and sepset by skelet:  
+a: S =   - pval = 1.919525e-178 
+a: S = 19  - pval = 3.501863e-131 
+a: S = 20  - pval = 4.657868e-193 
+a: S = 19 20  - pval = 7.041461e-114 
+a: S = 35  - pval = 1.314585e-166 
+a: S = 19 35  - pval = 8.281388e-10 
+a: S = 20 35  - pval = 1.203245e-151 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 1.919525e-178 
+c: S = 2  - pval = 4.393527e-101 
+c: S = 19  - pval = 3.501863e-131 
+c: S = 2 19  - pval = 1.796385e-20 
+c: S = 20  - pval = 4.657868e-193 
+c: S = 2 20  - pval = 1.675763e-102 
+c: S = 19 20  - pval = 7.041461e-114 
+c: S = 2 19 20  - pval = 2.303326e-08 
+c: S = 28  - pval = 2.087227e-165 
+c: S = 2 28  - pval = 1.434723e-72 
+c: S = 19 28  - pval = 3.969264e-99 
+c: S = 2 19 28  - pval = 0.2451401 
+c: S = 20 28  - pval = 1.220914e-169 
+c: S = 2 20 28  - pval = 6.752859e-58 
+c: S = 19 20 28  - pval = 3.447986e-67 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 3.481625e-81 
+c: S = 2 33  - pval = 9.658856e-25 
+c: S = 19 33  - pval = 1 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 1.788748e-83 
+c: S = 2 20 33  - pval = 4.833698e-15 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 1.563022e-53 
+c: S = 2 28 33  - pval = 0.289246 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 1.982397e-38 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 11  N- 13 
+prob: 0.8461538 atio=: 0.8461538 
+
+decision: 2 
+
+Triple: 26 19 33 and sepset by skelet:  
+a: S =   - pval = 2.471013e-151 
+a: S = 19  - pval = 3.179797e-157 
+a: S = 20  - pval = 3.688795e-141 
+a: S = 19 20  - pval = 4.570978e-137 
+a: S = 35  - pval = 6.624534e-148 
+a: S = 19 35  - pval = 4.522441e-12 
+a: S = 20 35  - pval = 1.156999e-100 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 2.471013e-151 
+c: S = 10  - pval = 3.468579e-38 
+c: S = 19  - pval = 3.179797e-157 
+c: S = 10 19  - pval = 3.561427e-12 
+c: S = 20  - pval = 3.688795e-141 
+c: S = 10 20  - pval = 4.442263e-27 
+c: S = 19 20  - pval = 4.570978e-137 
+c: S = 10 19 20  - pval = 0.02253769 
+c: S = 22  - pval = 7.974263e-85 
+c: S = 10 22  - pval = 1.0747e-08 
+c: S = 19 22  - pval = 1.717999e-09 
+c: S = 10 19 22  - pval = 1 
+c: S = 20 22  - pval = 1.038606e-69 
+c: S = 10 20 22  - pval = 0.721233 
+c: S = 19 20 22  - pval = 0.3352764 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 5.178175e-56 
+c: S = 10 32  - pval = 0.5259554 
+c: S = 19 32  - pval = 0.0004789559 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 1.622758e-38 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 0.9896522 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 9.530487e-25 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 8.882818e-06 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 6.624534e-148 
+c: S = 10 35  - pval = 1.840313e-17 
+c: S = 19 35  - pval = 4.522441e-12 
+c: S = 10 19 35  - pval = 1 
+c: S = 20 35  - pval = 1.156999e-100 
+c: S = 10 20 35  - pval = 0.06523948 
+c: S = 19 20 35  - pval = 1 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 2.760407e-96 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1.089163e-51 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 2.1385e-118 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 7.809622e-68 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 0.89385 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 27  N- 41 
+prob: 0.6585366 atio=: 0.6585366 
+
+decision: 2 
+
+Triple: 29 19 32 and sepset by skelet:  
+a: S =   - pval = 5.737108e-185 
+a: S = 4  - pval = 4.830572e-169 
+a: S = 19  - pval = 4.071629e-178 
+a: S = 4 19  - pval = 1.649279e-153 
+a: S = 27  - pval = 5.258758e-181 
+a: S = 4 27  - pval = 1.243095e-161 
+a: S = 19 27  - pval = 1.906069e-166 
+a: S = 4 19 27  - pval = 2.639982e-134 
+a: S = 28  - pval = 0.006934769 
+a: S = 4 28  - pval = 0.0007880479 
+a: S = 19 28  - pval = 0.9999104 
+a: S = 4 19 28  - pval = 0.9999917 
+a: S = 27 28  - pval = 0.3079089 
+a: S = 4 27 28  - pval = 0.4788746 
+a: S = 19 27 28  - pval = 1 
+a: S = 4 19 27 28  - pval = 1 
+c: S =   - pval = 5.737108e-185 
+c: S = 2  - pval = 4.468548e-62 
+c: S = 19  - pval = 4.071629e-178 
+c: S = 2 19  - pval = 1.519059e-46 
+c: S = 20  - pval = 1.819789e-179 
+c: S = 2 20  - pval = 8.012157e-54 
+c: S = 19 20  - pval = 1.500803e-164 
+c: S = 2 19 20  - pval = 1.132643e-29 
+c: S = 28  - pval = 0.006934769 
+c: S = 2 28  - pval = 0.9765908 
+c: S = 19 28  - pval = 0.9999104 
+c: S = 2 19 28  - pval = 1 
+c: S = 20 28  - pval = 0.3854376 
+c: S = 2 20 28  - pval = 1 
+c: S = 19 20 28  - pval = 1 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 4.930473e-161 
+c: S = 2 33  - pval = 1.317837e-35 
+c: S = 19 33  - pval = 2.686435e-123 
+c: S = 2 19 33  - pval = 3.43318e-07 
+c: S = 20 33  - pval = 5.353122e-145 
+c: S = 2 20 33  - pval = 1.430339e-17 
+c: S = 19 20 33  - pval = 4.69081e-91 
+c: S = 2 19 20 33  - pval = 0.9997747 
+c: S = 28 33  - pval = 0.145057 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 0.99998 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 13  N- 22 
+prob: 0.5909091 atio=: 0.5909091 
+
+decision: 2 
+
+Triple: 29 19 33 and sepset by skelet:  
+a: S =   - pval = 5.355986e-13 
+a: S = 4  - pval = 6.973551e-14 
+a: S = 19  - pval = 1.701673e-19 
+a: S = 4 19  - pval = 1.468725e-17 
+a: S = 27  - pval = 1.166809e-10 
+a: S = 4 27  - pval = 9.929687e-10 
+a: S = 19 27  - pval = 1.800463e-13 
+a: S = 4 19 27  - pval = 8.842348e-09 
+a: S = 28  - pval = 0.3557222 
+a: S = 4 28  - pval = 0.1347375 
+a: S = 19 28  - pval = 0.9948979 
+a: S = 4 19 28  - pval = 0.999863 
+a: S = 27 28  - pval = 0.9729947 
+a: S = 4 27 28  - pval = 0.9943549 
+a: S = 19 27 28  - pval = 1 
+a: S = 4 19 27 28  - pval = 1 
+c: S =   - pval = 5.355986e-13 
+c: S = 10  - pval = 2.056254e-54 
+c: S = 19  - pval = 1.701673e-19 
+c: S = 10 19  - pval = 3.059108e-44 
+c: S = 20  - pval = 1.182081e-11 
+c: S = 10 20  - pval = 4.179824e-41 
+c: S = 19 20  - pval = 1.367671e-14 
+c: S = 10 19 20  - pval = 1.320183e-22 
+c: S = 22  - pval = 2.578069e-05 
+c: S = 10 22  - pval = 0.4044716 
+c: S = 19 22  - pval = 0.002552405 
+c: S = 10 19 22  - pval = 1 
+c: S = 20 22  - pval = 0.0162142 
+c: S = 10 20 22  - pval = 1 
+c: S = 19 20 22  - pval = 0.9557149 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 0.08277464 
+c: S = 10 32  - pval = 1 
+c: S = 19 32  - pval = 0.9994892 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 0.7040357 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 1 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 0.990636 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 1 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 2.564355e-10 
+c: S = 10 35  - pval = 1.344892e-08 
+c: S = 19 35  - pval = 0.9627735 
+c: S = 10 19 35  - pval = 1 
+c: S = 20 35  - pval = 1.084996e-05 
+c: S = 10 20 35  - pval = 0.8105935 
+c: S = 19 20 35  - pval = 1 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 0.6606292 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 0.999941 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 1 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 1 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 31  N- 59 
+prob: 0.5254237 atio=: 0.5254237 
+
+decision: 2 
+
+Triple: 29 19 35 and sepset by skelet:  
+a: S =   - pval = 5.319798e-08 
+a: S = 4  - pval = 3.316692e-08 
+a: S = 19  - pval = 2.146933e-15 
+a: S = 4 19  - pval = 5.383969e-12 
+a: S = 27  - pval = 4.397804e-06 
+a: S = 4 27  - pval = 1.289803e-05 
+a: S = 19 27  - pval = 7.134536e-10 
+a: S = 4 19 27  - pval = 2.82142e-05 
+a: S = 28  - pval = 0.5884396 
+a: S = 4 28  - pval = 0.5582628 
+a: S = 19 28  - pval = 0.9996828 
+a: S = 4 19 28  - pval = 1 
+a: S = 27 28  - pval = 0.9930501 
+a: S = 4 27 28  - pval = 0.9989642 
+a: S = 19 27 28  - pval = 1 
+a: S = 4 19 27 28  - pval = 1 
+c: S =   - pval = 5.319798e-08 
+c: S = 7  - pval = 2.396959e-05 
+c: S = 19  - pval = 2.146933e-15 
+c: S = 7 19  - pval = 4.251085e-09 
+c: S = 20  - pval = 1.091601e-06 
+c: S = 7 20  - pval = 0.002429605 
+c: S = 19 20  - pval = 1.32379e-10 
+c: S = 7 19 20  - pval = 0.001116766 
+c: S = 26  - pval = 5.852962e-10 
+c: S = 7 26  - pval = 0.0002500254 
+c: S = 19 26  - pval = 0.01111295 
+c: S = 7 19 26  - pval = 0.9995265 
+c: S = 20 26  - pval = 2.55549e-05 
+c: S = 7 20 26  - pval = 0.4464809 
+c: S = 19 20 26  - pval = 0.9893308 
+c: S = 7 19 20 26  - pval = 1 
+c: S = 33  - pval = 2.35319e-06 
+c: S = 7 33  - pval = 0.02360308 
+c: S = 19 33  - pval = 0.999996 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 0.008611275 
+c: S = 7 20 33  - pval = 0.9520858 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 0.03931048 
+c: S = 7 26 33  - pval = 0.9999983 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 0.9999778 
+c: S = 7 20 26 33  - pval = 1 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0.1995532 
+c: S = 7 34  - pval = 0.9962098 
+c: S = 19 34  - pval = 0.9997182 
+c: S = 7 19 34  - pval = 1 
+c: S = 20 34  - pval = 0.9559512 
+c: S = 7 20 34  - pval = 1 
+c: S = 19 20 34  - pval = 1 
+c: S = 7 19 20 34  - pval = 1 
+c: S = 26 34  - pval = 0.9999993 
+c: S = 7 26 34  - pval = 1 
+c: S = 19 26 34  - pval = 1 
+c: S = 7 19 26 34  - pval = 1 
+c: S = 20 26 34  - pval = 1 
+c: S = 7 20 26 34  - pval = 1 
+c: S = 19 20 26 34  - pval = 1 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 1 
+c: S = 7 33 34  - pval = 1 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 1 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 1 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 32  N- 59 
+prob: 0.5423729 atio=: 0.5423729 
+
+decision: 2 
+
+Triple: 32 19 35 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 8.352977e-249 
+a: S = 19  - pval = 0 
+a: S = 2 19  - pval = 3.947396e-269 
+a: S = 20  - pval = 0 
+a: S = 2 20  - pval = 2.534648e-248 
+a: S = 19 20  - pval = 0 
+a: S = 2 19 20  - pval = 2.093826e-239 
+a: S = 28  - pval = 0 
+a: S = 2 28  - pval = 7.92018e-206 
+a: S = 19 28  - pval = 0 
+a: S = 2 19 28  - pval = 9.555897e-182 
+a: S = 20 28  - pval = 0 
+a: S = 2 20 28  - pval = 7.577549e-182 
+a: S = 19 20 28  - pval = 0 
+a: S = 2 19 20 28  - pval = 4.447918e-116 
+a: S = 33  - pval = 4.618311e-258 
+a: S = 2 33  - pval = 1.363105e-35 
+a: S = 19 33  - pval = 1 
+a: S = 2 19 33  - pval = 1 
+a: S = 20 33  - pval = 3.728874e-248 
+a: S = 2 20 33  - pval = 5.041661e-15 
+a: S = 19 20 33  - pval = 1 
+a: S = 2 19 20 33  - pval = 1 
+a: S = 28 33  - pval = 1.900052e-203 
+a: S = 2 28 33  - pval = 0.01130159 
+a: S = 19 28 33  - pval = 1 
+a: S = 2 19 28 33  - pval = 1 
+a: S = 20 28 33  - pval = 1.569623e-166 
+a: S = 2 20 28 33  - pval = 1 
+a: S = 19 20 28 33  - pval = 1 
+a: S = 2 19 20 28 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 4.618311e-258 
+c: S = 7 33  - pval = 3.41187e-171 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 3.728874e-248 
+c: S = 7 20 33  - pval = 2.981275e-145 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 5.927723e-301 
+c: S = 7 26 33  - pval = 7.614063e-128 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 1.32717e-253 
+c: S = 7 20 26 33  - pval = 4.450163e-67 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.96845e-157 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 7.773486e-142 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 2.501733e-134 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 1.352093e-86 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 8.999871e-85 
+c: S = 19 26 34  - pval = 3.568391e-277 
+c: S = 7 19 26 34  - pval = 1.452984e-12 
+c: S = 20 26 34  - pval = 0 
+c: S = 7 20 26 34  - pval = 3.182682e-31 
+c: S = 19 20 26 34  - pval = 1.390713e-151 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 6.877695e-99 
+c: S = 7 33 34  - pval = 0.9285321 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 2.093839e-62 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 1.733588e-54 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 25  N- 32 
+prob: 0.78125 atio=: 0.78125 
+
+decision: 2 
+
+Triple: 26 20 32 and sepset by skelet: 19 
+a: S =   - pval = 1.919525e-178 
+a: S = 19  - pval = 3.501863e-131 
+a: S = 20  - pval = 4.657868e-193 
+a: S = 19 20  - pval = 7.041461e-114 
+a: S = 35  - pval = 1.314585e-166 
+a: S = 19 35  - pval = 8.281388e-10 
+a: S = 20 35  - pval = 1.203245e-151 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 1.919525e-178 
+c: S = 2  - pval = 4.393527e-101 
+c: S = 19  - pval = 3.501863e-131 
+c: S = 2 19  - pval = 1.796385e-20 
+c: S = 20  - pval = 4.657868e-193 
+c: S = 2 20  - pval = 1.675763e-102 
+c: S = 19 20  - pval = 7.041461e-114 
+c: S = 2 19 20  - pval = 2.303326e-08 
+c: S = 28  - pval = 2.087227e-165 
+c: S = 2 28  - pval = 1.434723e-72 
+c: S = 19 28  - pval = 3.969264e-99 
+c: S = 2 19 28  - pval = 0.2451401 
+c: S = 20 28  - pval = 1.220914e-169 
+c: S = 2 20 28  - pval = 6.752859e-58 
+c: S = 19 20 28  - pval = 3.447986e-67 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 3.481625e-81 
+c: S = 2 33  - pval = 9.658856e-25 
+c: S = 19 33  - pval = 1 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 1.788748e-83 
+c: S = 2 20 33  - pval = 4.833698e-15 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 1.563022e-53 
+c: S = 2 28 33  - pval = 0.289246 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 1.982397e-38 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 7  N- 13 
+prob: 0.5384615 atio=: 0.5384615 
+
+decision: 2 
+
+Triple: 26 20 33 and sepset by skelet: 19 
+a: S =   - pval = 2.471013e-151 
+a: S = 19  - pval = 3.179797e-157 
+a: S = 20  - pval = 3.688795e-141 
+a: S = 19 20  - pval = 4.570978e-137 
+a: S = 35  - pval = 6.624534e-148 
+a: S = 19 35  - pval = 4.522441e-12 
+a: S = 20 35  - pval = 1.156999e-100 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 2.471013e-151 
+c: S = 10  - pval = 3.468579e-38 
+c: S = 19  - pval = 3.179797e-157 
+c: S = 10 19  - pval = 3.561427e-12 
+c: S = 20  - pval = 3.688795e-141 
+c: S = 10 20  - pval = 4.442263e-27 
+c: S = 19 20  - pval = 4.570978e-137 
+c: S = 10 19 20  - pval = 0.02253769 
+c: S = 22  - pval = 7.974263e-85 
+c: S = 10 22  - pval = 1.0747e-08 
+c: S = 19 22  - pval = 1.717999e-09 
+c: S = 10 19 22  - pval = 1 
+c: S = 20 22  - pval = 1.038606e-69 
+c: S = 10 20 22  - pval = 0.721233 
+c: S = 19 20 22  - pval = 0.3352764 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 5.178175e-56 
+c: S = 10 32  - pval = 0.5259554 
+c: S = 19 32  - pval = 0.0004789559 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 1.622758e-38 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 0.9896522 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 9.530487e-25 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 8.882818e-06 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 6.624534e-148 
+c: S = 10 35  - pval = 1.840313e-17 
+c: S = 19 35  - pval = 4.522441e-12 
+c: S = 10 19 35  - pval = 1 
+c: S = 20 35  - pval = 1.156999e-100 
+c: S = 10 20 35  - pval = 0.06523948 
+c: S = 19 20 35  - pval = 1 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 2.760407e-96 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1.089163e-51 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 2.1385e-118 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 7.809622e-68 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 0.89385 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 24  N- 41 
+prob: 0.5853659 atio=: 0.5853659 
+
+decision: 2 
+
+Triple: 32 20 35 and sepset by skelet: 19 
+a: S =   - pval = 0 
+a: S = 2  - pval = 8.352977e-249 
+a: S = 19  - pval = 0 
+a: S = 2 19  - pval = 3.947396e-269 
+a: S = 20  - pval = 0 
+a: S = 2 20  - pval = 2.534648e-248 
+a: S = 19 20  - pval = 0 
+a: S = 2 19 20  - pval = 2.093826e-239 
+a: S = 28  - pval = 0 
+a: S = 2 28  - pval = 7.92018e-206 
+a: S = 19 28  - pval = 0 
+a: S = 2 19 28  - pval = 9.555897e-182 
+a: S = 20 28  - pval = 0 
+a: S = 2 20 28  - pval = 7.577549e-182 
+a: S = 19 20 28  - pval = 0 
+a: S = 2 19 20 28  - pval = 4.447918e-116 
+a: S = 33  - pval = 4.618311e-258 
+a: S = 2 33  - pval = 1.363105e-35 
+a: S = 19 33  - pval = 1 
+a: S = 2 19 33  - pval = 1 
+a: S = 20 33  - pval = 3.728874e-248 
+a: S = 2 20 33  - pval = 5.041661e-15 
+a: S = 19 20 33  - pval = 1 
+a: S = 2 19 20 33  - pval = 1 
+a: S = 28 33  - pval = 1.900052e-203 
+a: S = 2 28 33  - pval = 0.01130159 
+a: S = 19 28 33  - pval = 1 
+a: S = 2 19 28 33  - pval = 1 
+a: S = 20 28 33  - pval = 1.569623e-166 
+a: S = 2 20 28 33  - pval = 1 
+a: S = 19 20 28 33  - pval = 1 
+a: S = 2 19 20 28 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 4.618311e-258 
+c: S = 7 33  - pval = 3.41187e-171 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 3.728874e-248 
+c: S = 7 20 33  - pval = 2.981275e-145 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 5.927723e-301 
+c: S = 7 26 33  - pval = 7.614063e-128 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 1.32717e-253 
+c: S = 7 20 26 33  - pval = 4.450163e-67 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.96845e-157 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 7.773486e-142 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 2.501733e-134 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 1.352093e-86 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 8.999871e-85 
+c: S = 19 26 34  - pval = 3.568391e-277 
+c: S = 7 19 26 34  - pval = 1.452984e-12 
+c: S = 20 26 34  - pval = 0 
+c: S = 7 20 26 34  - pval = 3.182682e-31 
+c: S = 19 20 26 34  - pval = 1.390713e-151 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 6.877695e-99 
+c: S = 7 33 34  - pval = 0.9285321 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 2.093839e-62 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 1.733588e-54 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 17  N- 32 
+prob: 0.53125 atio=: 0.53125 
+
+decision: 2 
+
+Triple: 6 21 12 and sepset by skelet:  
+a: S =   - pval = 1.314215e-321 
+a: S = 21  - pval = 0.9374582 
+c: S =   - pval = 1.314215e-321 
+c: S = 21  - pval = 0.9374582 
+c: S = 30  - pval = 5.843519e-248 
+c: S = 21 30  - pval = 0.9767752 
+
+Count: 3  N- 3 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 6 21 17 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 21  - pval = 0.6157909 
+c: S =   - pval = 0 
+c: S = 21  - pval = 0.6157909 
+c: S = 30  - pval = 0 
+c: S = 21 30  - pval = 0.3440984 
+
+Count: 3  N- 3 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 6 21 25 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 21  - pval = 0.7606643 
+c: S =   - pval = 0 
+c: S = 21  - pval = 0.7606643 
+
+Count: 2  N- 2 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 12 21 17 and sepset by skelet:  
+a: S =   - pval = 0.4533773 
+a: S = 21  - pval = 4.404587e-13 
+a: S = 30  - pval = 7.144104e-78 
+a: S = 21 30  - pval = 2.241737e-07 
+c: S =   - pval = 0.4533773 
+c: S = 21  - pval = 4.404587e-13 
+c: S = 30  - pval = 7.144104e-78 
+c: S = 21 30  - pval = 2.241737e-07 
+
+Count: 0  N- 2 
+prob: 0 atio=: 0 
+
+decision: 1 
+
+Triple: 12 21 25 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 21  - pval = 0.9972241 
+a: S = 30  - pval = 3.154385e-254 
+a: S = 21 30  - pval = 0.8276732 
+c: S =   - pval = 0 
+c: S = 21  - pval = 0.9972241 
+
+Count: 3  N- 3 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 17 21 25 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 21  - pval = 0.4754806 
+a: S = 30  - pval = 0 
+a: S = 21 30  - pval = 0.2213941 
+c: S =   - pval = 0 
+c: S = 21  - pval = 0.4754806 
+
+Count: 3  N- 3 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 19 26 20 and sepset by skelet:  
+a: S =   - pval = 0.6559049 
+a: S = 22  - pval = 1.20267e-05 
+a: S = 26  - pval = 1.792302e-21 
+a: S = 22 26  - pval = 2.091682e-05 
+a: S = 29  - pval = 0.7053295 
+a: S = 22 29  - pval = 0.0178402 
+a: S = 26 29  - pval = 2.024199e-14 
+a: S = 22 26 29  - pval = 0.7683084 
+a: S = 32  - pval = 2.436242e-17 
+a: S = 22 32  - pval = 0.1961994 
+a: S = 26 32  - pval = 2.105628e-09 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 6.80062e-11 
+a: S = 22 29 32  - pval = 0.9999998 
+a: S = 26 29 32  - pval = 0.3851297 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 0.191489 
+a: S = 22 33  - pval = 0.9999994 
+a: S = 26 33  - pval = 3.73953e-13 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 0.8961729 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.02773294 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 0.9999766 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.07249955 
+a: S = 22 35  - pval = 0.01360967 
+a: S = 26 35  - pval = 2.912305e-30 
+a: S = 22 26 35  - pval = 0.9998906 
+a: S = 29 35  - pval = 0.7917002 
+a: S = 22 29 35  - pval = 0.9999369 
+a: S = 26 29 35  - pval = 3.946899e-12 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 6.884394e-06 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 0.9983579 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 0.8759009 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 2.876396e-07 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 6.914275e-09 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 0.6308842 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.6559049 
+c: S = 26  - pval = 1.792302e-21 
+c: S = 32  - pval = 2.436242e-17 
+c: S = 26 32  - pval = 2.105628e-09 
+c: S = 33  - pval = 0.191489 
+c: S = 26 33  - pval = 3.73953e-13 
+c: S = 32 33  - pval = 0.9999766 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 0.07249955 
+c: S = 26 35  - pval = 2.912305e-30 
+c: S = 32 35  - pval = 6.884394e-06 
+c: S = 26 32 35  - pval = 0.9983579 
+c: S = 33 35  - pval = 2.876396e-07 
+c: S = 26 33 35  - pval = 6.914275e-09 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 27  N- 59 
+prob: 0.4576271 atio=: 0.4576271 
+
+decision: 1 
+
+Triple: 24 27 28 and sepset by skelet:  
+a: S =   - pval = 0.1995946 
+a: S = 27  - pval = 0.4391193 
+c: S =   - pval = 0.1995946 
+c: S = 11  - pval = 0.5221915 
+c: S = 27  - pval = 0.4391193 
+c: S = 11 27  - pval = 0.9077244 
+c: S = 29  - pval = 0.5821235 
+c: S = 11 29  - pval = 0.991262 
+c: S = 27 29  - pval = 0.9886835 
+c: S = 11 27 29  - pval = 1 
+c: S = 32  - pval = 0.7160796 
+c: S = 11 32  - pval = 0.9998397 
+c: S = 27 32  - pval = 0.9981805 
+c: S = 11 27 32  - pval = 1 
+c: S = 29 32  - pval = 0.9992259 
+c: S = 11 29 32  - pval = 1 
+c: S = 27 29 32  - pval = 1 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 9  N- 18 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 24 27 29 and sepset by skelet:  
+a: S =   - pval = 0.4390139 
+a: S = 27  - pval = 0.7029037 
+c: S =   - pval = 0.4390139 
+c: S = 4  - pval = 0.8268095 
+c: S = 19  - pval = 0.4855514 
+c: S = 4 19  - pval = 0.9615619 
+c: S = 27  - pval = 0.7029037 
+c: S = 4 27  - pval = 0.9928495 
+c: S = 19 27  - pval = 0.9704427 
+c: S = 4 19 27  - pval = 0.9999988 
+c: S = 28  - pval = 0.7728852 
+c: S = 4 28  - pval = 0.9381787 
+c: S = 19 28  - pval = 0.9997617 
+c: S = 4 19 28  - pval = 1 
+c: S = 27 28  - pval = 0.998327 
+c: S = 4 27 28  - pval = 0.9999996 
+c: S = 19 27 28  - pval = 1 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 9  N- 18 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 11 28 27 and sepset by skelet:  
+a: S =   - pval = 0.03947559 
+a: S = 28  - pval = 0.2291064 
+c: S =   - pval = 0.03947559 
+c: S = 24  - pval = 0.4596611 
+c: S = 28  - pval = 0.2291064 
+c: S = 24 28  - pval = 0.9744307 
+c: S = 29  - pval = 0.2296438 
+c: S = 24 29  - pval = 0.9772027 
+c: S = 28 29  - pval = 0.8830021 
+c: S = 24 28 29  - pval = 1 
+
+Count: 5  N- 10 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 11 28 29 and sepset by skelet:  
+a: S =   - pval = 0.09264309 
+a: S = 28  - pval = 0.9983077 
+c: S =   - pval = 0.09264309 
+c: S = 4  - pval = 0.1122709 
+c: S = 19  - pval = 0.197829 
+c: S = 4 19  - pval = 0.5476795 
+c: S = 27  - pval = 0.3051734 
+c: S = 4 27  - pval = 0.4600908 
+c: S = 19 27  - pval = 0.7310529 
+c: S = 4 19 27  - pval = 0.9884775 
+c: S = 28  - pval = 0.9983077 
+c: S = 4 28  - pval = 0.9955439 
+c: S = 19 28  - pval = 0.9993381 
+c: S = 4 19 28  - pval = 1 
+c: S = 27 28  - pval = 0.9999996 
+c: S = 4 27 28  - pval = 0.9999999 
+c: S = 19 27 28  - pval = 1 
+c: S = 4 19 27 28  - pval = 1 
+
+Count: 9  N- 18 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 11 28 32 and sepset by skelet:  
+a: S =   - pval = 0.9963869 
+a: S = 28  - pval = 2.343093e-08 
+c: S =   - pval = 0.9963869 
+c: S = 2  - pval = 0.7662453 
+c: S = 19  - pval = 0.8843071 
+c: S = 2 19  - pval = 0.9980291 
+c: S = 20  - pval = 0.912834 
+c: S = 2 20  - pval = 0.9921838 
+c: S = 19 20  - pval = 0.9676049 
+c: S = 2 19 20  - pval = 1 
+c: S = 28  - pval = 2.343093e-08 
+c: S = 2 28  - pval = 0.1501266 
+c: S = 19 28  - pval = 0.0006154639 
+c: S = 2 19 28  - pval = 0.9999988 
+c: S = 20 28  - pval = 1.372807e-05 
+c: S = 2 20 28  - pval = 0.9851598 
+c: S = 19 20 28  - pval = 0.2494667 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 0.6449936 
+c: S = 2 33  - pval = 0.9999685 
+c: S = 19 33  - pval = 0.9998683 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0.9781369 
+c: S = 2 20 33  - pval = 1 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 0.007571445 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 0.9999525 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 0.7960062 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 12  N- 29 
+prob: 0.4137931 atio=: 0.4137931 
+
+decision: 1 
+
+Triple: 27 28 32 and sepset by skelet:  
+a: S =   - pval = 0.8605334 
+a: S = 24  - pval = 0.9930993 
+a: S = 28  - pval = 0.997878 
+a: S = 24 28  - pval = 1 
+a: S = 29  - pval = 0.2819653 
+a: S = 24 29  - pval = 0.995333 
+a: S = 28 29  - pval = 0.9999989 
+a: S = 24 28 29  - pval = 1 
+c: S =   - pval = 0.8605334 
+c: S = 2  - pval = 0.2714905 
+c: S = 19  - pval = 0.4735791 
+c: S = 2 19  - pval = 0.8757391 
+c: S = 20  - pval = 0.9871822 
+c: S = 2 20  - pval = 0.8730835 
+c: S = 19 20  - pval = 0.9635631 
+c: S = 2 19 20  - pval = 0.9999962 
+c: S = 28  - pval = 0.997878 
+c: S = 2 28  - pval = 0.999092 
+c: S = 19 28  - pval = 0.9996858 
+c: S = 2 19 28  - pval = 1 
+c: S = 20 28  - pval = 0.9999999 
+c: S = 2 20 28  - pval = 1 
+c: S = 19 20 28  - pval = 1 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 0.9388511 
+c: S = 2 33  - pval = 0.9999985 
+c: S = 19 33  - pval = 0.9997146 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0.9999128 
+c: S = 2 20 33  - pval = 1 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 1 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 1 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 20  N- 40 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 29 28 32 and sepset by skelet: 19 
+a: S =   - pval = 5.737108e-185 
+a: S = 4  - pval = 4.830572e-169 
+a: S = 19  - pval = 4.071629e-178 
+a: S = 4 19  - pval = 1.649279e-153 
+a: S = 27  - pval = 5.258758e-181 
+a: S = 4 27  - pval = 1.243095e-161 
+a: S = 19 27  - pval = 1.906069e-166 
+a: S = 4 19 27  - pval = 2.639982e-134 
+a: S = 28  - pval = 0.006934769 
+a: S = 4 28  - pval = 0.0007880479 
+a: S = 19 28  - pval = 0.9999104 
+a: S = 4 19 28  - pval = 0.9999917 
+a: S = 27 28  - pval = 0.3079089 
+a: S = 4 27 28  - pval = 0.4788746 
+a: S = 19 27 28  - pval = 1 
+a: S = 4 19 27 28  - pval = 1 
+c: S =   - pval = 5.737108e-185 
+c: S = 2  - pval = 4.468548e-62 
+c: S = 19  - pval = 4.071629e-178 
+c: S = 2 19  - pval = 1.519059e-46 
+c: S = 20  - pval = 1.819789e-179 
+c: S = 2 20  - pval = 8.012157e-54 
+c: S = 19 20  - pval = 1.500803e-164 
+c: S = 2 19 20  - pval = 1.132643e-29 
+c: S = 28  - pval = 0.006934769 
+c: S = 2 28  - pval = 0.9765908 
+c: S = 19 28  - pval = 0.9999104 
+c: S = 2 19 28  - pval = 1 
+c: S = 20 28  - pval = 0.3854376 
+c: S = 2 20 28  - pval = 1 
+c: S = 19 20 28  - pval = 1 
+c: S = 2 19 20 28  - pval = 1 
+c: S = 33  - pval = 4.930473e-161 
+c: S = 2 33  - pval = 1.317837e-35 
+c: S = 19 33  - pval = 2.686435e-123 
+c: S = 2 19 33  - pval = 3.43318e-07 
+c: S = 20 33  - pval = 5.353122e-145 
+c: S = 2 20 33  - pval = 1.430339e-17 
+c: S = 19 20 33  - pval = 4.69081e-91 
+c: S = 2 19 20 33  - pval = 0.9997747 
+c: S = 28 33  - pval = 0.145057 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 0.99998 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 21  N- 22 
+prob: 0.9545455 atio=: 0.9545455 
+
+decision: 2 
+
+Triple: 4 29 19 and sepset by skelet:  
+a: S =   - pval = 0.008832504 
+a: S = 2  - pval = 0.4824168 
+a: S = 13  - pval = 0.1332106 
+a: S = 2 13  - pval = 0.6835134 
+a: S = 29  - pval = 0.004955514 
+a: S = 2 29  - pval = 0.8700451 
+a: S = 13 29  - pval = 0.6812426 
+a: S = 2 13 29  - pval = 0.999996 
+a: S = 31  - pval = 0.0006840462 
+a: S = 2 31  - pval = 0.4318362 
+a: S = 13 31  - pval = 0.09154395 
+a: S = 2 13 31  - pval = 0.9992704 
+a: S = 29 31  - pval = 0.01143018 
+a: S = 2 29 31  - pval = 0.9988938 
+a: S = 13 29 31  - pval = 0.9966359 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0.008832504 
+c: S = 22  - pval = 0.04690573 
+c: S = 26  - pval = 3.039062e-05 
+c: S = 22 26  - pval = 0.328292 
+c: S = 29  - pval = 0.004955514 
+c: S = 22 29  - pval = 0.6018679 
+c: S = 26 29  - pval = 0.0345472 
+c: S = 22 26 29  - pval = 0.9999999 
+c: S = 32  - pval = 0.7008967 
+c: S = 22 32  - pval = 0.94783 
+c: S = 26 32  - pval = 0.9962223 
+c: S = 22 26 32  - pval = 1 
+c: S = 29 32  - pval = 0.9976666 
+c: S = 22 29 32  - pval = 1 
+c: S = 26 29 32  - pval = 1 
+c: S = 22 26 29 32  - pval = 1 
+c: S = 33  - pval = 2.669405e-29 
+c: S = 22 33  - pval = 0.01025837 
+c: S = 26 33  - pval = 7.851928e-19 
+c: S = 22 26 33  - pval = 0.9999996 
+c: S = 29 33  - pval = 4.05257e-24 
+c: S = 22 29 33  - pval = 0.998286 
+c: S = 26 29 33  - pval = 1.244608e-06 
+c: S = 22 26 29 33  - pval = 1 
+c: S = 32 33  - pval = 0.9784564 
+c: S = 22 32 33  - pval = 1 
+c: S = 26 32 33  - pval = 1 
+c: S = 22 26 32 33  - pval = 1 
+c: S = 29 32 33  - pval = 1 
+c: S = 22 29 32 33  - pval = 1 
+c: S = 26 29 32 33  - pval = 1 
+c: S = 22 26 29 32 33  - pval = 1 
+c: S = 35  - pval = 5.422354e-06 
+c: S = 22 35  - pval = 0.06996309 
+c: S = 26 35  - pval = 0.2443156 
+c: S = 22 26 35  - pval = 1 
+c: S = 29 35  - pval = 0.001827494 
+c: S = 22 29 35  - pval = 0.9999999 
+c: S = 26 29 35  - pval = 0.9999999 
+c: S = 22 26 29 35  - pval = 1 
+c: S = 32 35  - pval = 0.9752384 
+c: S = 22 32 35  - pval = 1 
+c: S = 26 32 35  - pval = 1 
+c: S = 22 26 32 35  - pval = 1 
+c: S = 29 32 35  - pval = 1 
+c: S = 22 29 32 35  - pval = 1 
+c: S = 26 29 32 35  - pval = 1 
+c: S = 22 26 29 32 35  - pval = 1 
+c: S = 33 35  - pval = 3.580911e-10 
+c: S = 22 33 35  - pval = 1 
+c: S = 26 33 35  - pval = 0.9999977 
+c: S = 22 26 33 35  - pval = 1 
+c: S = 29 33 35  - pval = 0.03771662 
+c: S = 22 29 33 35  - pval = 1 
+c: S = 26 29 33 35  - pval = 1 
+c: S = 22 26 29 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 22 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+c: S = 22 26 32 33 35  - pval = 1 
+c: S = 29 32 33 35  - pval = 1 
+c: S = 22 29 32 33 35  - pval = 1 
+c: S = 26 29 32 33 35  - pval = 1 
+c: S = 22 26 29 32 33 35  - pval = 1 
+
+Count: 35  N- 67 
+prob: 0.5223881 atio=: 0.5223881 
+
+decision: 2 
+
+Triple: 4 29 27 and sepset by skelet:  
+a: S =   - pval = 0.01213517 
+a: S = 2  - pval = 0.02927012 
+a: S = 13  - pval = 0.1553443 
+a: S = 2 13  - pval = 0.1212033 
+a: S = 29  - pval = 0.01364765 
+a: S = 2 29  - pval = 0.01719942 
+a: S = 13 29  - pval = 0.7749796 
+a: S = 2 13 29  - pval = 0.9898343 
+a: S = 31  - pval = 0.02691279 
+a: S = 2 31  - pval = 0.2885809 
+a: S = 13 31  - pval = 0.892982 
+a: S = 2 13 31  - pval = 0.9996615 
+a: S = 29 31  - pval = 0.1083771 
+a: S = 2 29 31  - pval = 0.9192115 
+a: S = 13 29 31  - pval = 0.9999842 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 0.01213517 
+c: S = 24  - pval = 0.2043361 
+c: S = 28  - pval = 0.03662176 
+c: S = 24 28  - pval = 0.6852734 
+c: S = 29  - pval = 0.01364765 
+c: S = 24 29  - pval = 0.4961303 
+c: S = 28 29  - pval = 0.07274062 
+c: S = 24 28 29  - pval = 0.9895449 
+
+Count: 12  N- 24 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 4 29 28 and sepset by skelet:  
+a: S =   - pval = 6.172739e-22 
+a: S = 2  - pval = 0.005857287 
+a: S = 13  - pval = 9.029633e-09 
+a: S = 2 13  - pval = 0.8323954 
+a: S = 29  - pval = 2.854042e-05 
+a: S = 2 29  - pval = 0.5214176 
+a: S = 13 29  - pval = 0.2746036 
+a: S = 2 13 29  - pval = 0.9999249 
+a: S = 31  - pval = 1.402473e-27 
+a: S = 2 31  - pval = 8.801402e-05 
+a: S = 13 31  - pval = 8.537591e-07 
+a: S = 2 13 31  - pval = 0.9968081 
+a: S = 29 31  - pval = 6.437295e-07 
+a: S = 2 29 31  - pval = 0.999894 
+a: S = 13 29 31  - pval = 0.9626602 
+a: S = 2 13 29 31  - pval = 1 
+c: S =   - pval = 6.172739e-22 
+c: S = 11  - pval = 4.396575e-20 
+c: S = 27  - pval = 1.038582e-20 
+c: S = 11 27  - pval = 6.666466e-18 
+c: S = 29  - pval = 2.854042e-05 
+c: S = 11 29  - pval = 0.00297866 
+c: S = 27 29  - pval = 0.0003502156 
+c: S = 11 27 29  - pval = 0.07388857 
+c: S = 32  - pval = 0.4326198 
+c: S = 11 32  - pval = 0.959761 
+c: S = 27 32  - pval = 0.9421593 
+c: S = 11 27 32  - pval = 0.9999967 
+c: S = 29 32  - pval = 0.7257498 
+c: S = 11 29 32  - pval = 0.9998754 
+c: S = 27 29 32  - pval = 0.9999432 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 11  N- 17 
+prob: 0.6470588 atio=: 0.6470588 
+
+decision: 2 
+
+Triple: 19 29 27 and sepset by skelet:  
+a: S =   - pval = 0.8596792 
+a: S = 22  - pval = 0.4822845 
+a: S = 26  - pval = 0.9577559 
+a: S = 22 26  - pval = 0.9987615 
+a: S = 29  - pval = 0.9696318 
+a: S = 22 29  - pval = 0.9991051 
+a: S = 26 29  - pval = 0.9999996 
+a: S = 22 26 29  - pval = 1 
+a: S = 32  - pval = 0.4176696 
+a: S = 22 32  - pval = 0.9991683 
+a: S = 26 32  - pval = 0.9733549 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 0.9954094 
+a: S = 22 29 32  - pval = 1 
+a: S = 26 29 32  - pval = 1 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 0.8570451 
+a: S = 22 33  - pval = 1 
+a: S = 26 33  - pval = 0.999982 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 0.9999831 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 1 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 0.9993896 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.9891268 
+a: S = 22 35  - pval = 0.9999984 
+a: S = 26 35  - pval = 1 
+a: S = 22 26 35  - pval = 1 
+a: S = 29 35  - pval = 1 
+a: S = 22 29 35  - pval = 1 
+a: S = 26 29 35  - pval = 1 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 0.9998447 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 1 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 1 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 1 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 1 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 1 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.8596792 
+c: S = 24  - pval = 0.9572722 
+c: S = 28  - pval = 0.9896363 
+c: S = 24 28  - pval = 0.9999963 
+c: S = 29  - pval = 0.9696318 
+c: S = 24 29  - pval = 0.9999987 
+c: S = 28 29  - pval = 0.9999067 
+c: S = 24 28 29  - pval = 1 
+
+Count: 36  N- 72 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 19 29 28 and sepset by skelet:  
+a: S =   - pval = 2.308937e-07 
+a: S = 22  - pval = 0.005670426 
+a: S = 26  - pval = 1.623903e-07 
+a: S = 22 26  - pval = 0.5568517 
+a: S = 29  - pval = 3.798344e-21 
+a: S = 22 29  - pval = 4.678105e-06 
+a: S = 26 29  - pval = 8.959481e-09 
+a: S = 22 26 29  - pval = 1 
+a: S = 32  - pval = 0.9542714 
+a: S = 22 32  - pval = 1 
+a: S = 26 32  - pval = 1 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 0.07463037 
+a: S = 22 29 32  - pval = 1 
+a: S = 26 29 32  - pval = 1 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 6.897021e-14 
+a: S = 22 33  - pval = 0.006957999 
+a: S = 26 33  - pval = 0.001311781 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 2.185443e-10 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.9978992 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 1 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 5.465418e-18 
+a: S = 22 35  - pval = 0.0403229 
+a: S = 26 35  - pval = 0.00539415 
+a: S = 22 26 35  - pval = 1 
+a: S = 29 35  - pval = 7.536169e-13 
+a: S = 22 29 35  - pval = 0.9999999 
+a: S = 26 29 35  - pval = 0.9999991 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 0.9999996 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 1 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 1 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 0.3733124 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 1 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 1 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 2.308937e-07 
+c: S = 11  - pval = 9.12845e-06 
+c: S = 27  - pval = 1.123046e-05 
+c: S = 11 27  - pval = 0.001448849 
+c: S = 29  - pval = 3.798344e-21 
+c: S = 11 29  - pval = 4.461721e-16 
+c: S = 27 29  - pval = 3.215694e-16 
+c: S = 11 27 29  - pval = 1.939181e-09 
+c: S = 32  - pval = 0.9542714 
+c: S = 11 32  - pval = 0.9999934 
+c: S = 27 32  - pval = 0.9999964 
+c: S = 11 27 32  - pval = 1 
+c: S = 29 32  - pval = 0.07463037 
+c: S = 11 29 32  - pval = 0.9963696 
+c: S = 27 29 32  - pval = 0.9955922 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 31  N- 59 
+prob: 0.5254237 atio=: 0.5254237 
+
+decision: 2 
+
+Triple: 5 30 12 and sepset by skelet:  
+a: S =   - pval = 1.614307e-192 
+a: S = 3  - pval = 2.18411e-139 
+a: S = 13  - pval = 4.336395e-222 
+a: S = 3 13  - pval = 1.878778e-161 
+a: S = 30  - pval = 0.997885 
+a: S = 3 30  - pval = 0.9175347 
+a: S = 13 30  - pval = 0.94295 
+a: S = 3 13 30  - pval = 0.9999764 
+c: S =   - pval = 1.614307e-192 
+c: S = 21  - pval = 7.08285e-104 
+c: S = 30  - pval = 0.997885 
+c: S = 21 30  - pval = 0.7121061 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 5 30 17 and sepset by skelet:  
+a: S =   - pval = 1.674722e-248 
+a: S = 3  - pval = 2.172908e-203 
+a: S = 13  - pval = 7.807954e-272 
+a: S = 3 13  - pval = 1.357563e-218 
+a: S = 30  - pval = 0.646874 
+a: S = 3 30  - pval = 0.3705744 
+a: S = 13 30  - pval = 0.6209887 
+a: S = 3 13 30  - pval = 0.9958844 
+c: S =   - pval = 1.674722e-248 
+c: S = 21  - pval = 1.170399e-93 
+c: S = 30  - pval = 0.646874 
+c: S = 21 30  - pval = 0.9575523 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 12 30 17 and sepset by skelet:  
+a: S =   - pval = 0.4533773 
+a: S = 21  - pval = 4.404587e-13 
+a: S = 30  - pval = 7.144104e-78 
+a: S = 21 30  - pval = 2.241737e-07 
+c: S =   - pval = 0.4533773 
+c: S = 21  - pval = 4.404587e-13 
+c: S = 30  - pval = 7.144104e-78 
+c: S = 21 30  - pval = 2.241737e-07 
+
+Count: 0  N- 2 
+prob: 0 atio=: 0 
+
+decision: 1 
+
+Triple: 3 31 4 and sepset by skelet:  
+a: S =   - pval = 6.226401e-78 
+a: S = 5  - pval = 4.122382e-101 
+a: S = 31  - pval = 3.52019e-46 
+a: S = 5 31  - pval = 0.4742392 
+c: S =   - pval = 6.226401e-78 
+c: S = 2  - pval = 4.988637e-78 
+c: S = 13  - pval = 1.740874e-61 
+c: S = 2 13  - pval = 2.259507e-51 
+c: S = 29  - pval = 2.643888e-76 
+c: S = 2 29  - pval = 2.370849e-72 
+c: S = 13 29  - pval = 4.559076e-55 
+c: S = 2 13 29  - pval = 9.854565e-37 
+c: S = 31  - pval = 3.52019e-46 
+c: S = 2 31  - pval = 4.918543e-29 
+c: S = 13 31  - pval = 0.5229562 
+c: S = 2 13 31  - pval = 0.9752824 
+c: S = 29 31  - pval = 5.351266e-41 
+c: S = 2 29 31  - pval = 5.893963e-19 
+c: S = 13 29 31  - pval = 0.9986542 
+c: S = 2 13 29 31  - pval = 1 
+
+Count: 5  N- 5 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 2 32 19 and sepset by skelet:  
+a: S =   - pval = 9.227072e-51 
+a: S = 4  - pval = 1.557452e-46 
+a: S = 10  - pval = 0 
+a: S = 4 10  - pval = 1.203355e-301 
+a: S = 32  - pval = 0.3618998 
+a: S = 4 32  - pval = 0.3761054 
+a: S = 10 32  - pval = 2.505533e-33 
+a: S = 4 10 32  - pval = 1.5486e-16 
+c: S =   - pval = 9.227072e-51 
+c: S = 22  - pval = 1.432903e-71 
+c: S = 26  - pval = 1.321096e-75 
+c: S = 22 26  - pval = 8.526627e-50 
+c: S = 29  - pval = 8.451659e-48 
+c: S = 22 29  - pval = 1.619851e-54 
+c: S = 26 29  - pval = 5.753636e-58 
+c: S = 22 26 29  - pval = 2.457926e-15 
+c: S = 32  - pval = 0.3618998 
+c: S = 22 32  - pval = 0.9999342 
+c: S = 26 32  - pval = 0.9999587 
+c: S = 22 26 32  - pval = 1 
+c: S = 29 32  - pval = 0.9959452 
+c: S = 22 29 32  - pval = 1 
+c: S = 26 29 32  - pval = 1 
+c: S = 22 26 29 32  - pval = 1 
+c: S = 33  - pval = 0 
+c: S = 22 33  - pval = 1.26879e-85 
+c: S = 26 33  - pval = 0 
+c: S = 22 26 33  - pval = 6.358956e-26 
+c: S = 29 33  - pval = 0 
+c: S = 22 29 33  - pval = 7.984239e-34 
+c: S = 26 29 33  - pval = 0 
+c: S = 22 26 29 33  - pval = 1 
+c: S = 32 33  - pval = 1 
+c: S = 22 32 33  - pval = 1 
+c: S = 26 32 33  - pval = 1 
+c: S = 22 26 32 33  - pval = 1 
+c: S = 29 32 33  - pval = 1 
+c: S = 22 29 32 33  - pval = 1 
+c: S = 26 29 32 33  - pval = 1 
+c: S = 22 26 29 32 33  - pval = 1 
+c: S = 35  - pval = 8.584845e-121 
+c: S = 22 35  - pval = 2.662938e-71 
+c: S = 26 35  - pval = 1.65908e-51 
+c: S = 22 26 35  - pval = 0.298536 
+c: S = 29 35  - pval = 3.418741e-90 
+c: S = 22 29 35  - pval = 1.212475e-26 
+c: S = 26 29 35  - pval = 3.220633e-16 
+c: S = 22 26 29 35  - pval = 1 
+c: S = 32 35  - pval = 0.9999891 
+c: S = 22 32 35  - pval = 1 
+c: S = 26 32 35  - pval = 1 
+c: S = 22 26 32 35  - pval = 1 
+c: S = 29 32 35  - pval = 1 
+c: S = 22 29 32 35  - pval = 1 
+c: S = 26 29 32 35  - pval = 1 
+c: S = 22 26 29 32 35  - pval = 1 
+c: S = 33 35  - pval = 0 
+c: S = 22 33 35  - pval = 1.076149e-07 
+c: S = 26 33 35  - pval = 1.078243e-121 
+c: S = 22 26 33 35  - pval = 1 
+c: S = 29 33 35  - pval = 1.776493e-258 
+c: S = 22 29 33 35  - pval = 1 
+c: S = 26 29 33 35  - pval = 1.457801e-22 
+c: S = 22 26 29 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 22 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+c: S = 22 26 32 33 35  - pval = 1 
+c: S = 29 32 33 35  - pval = 1 
+c: S = 22 29 32 33 35  - pval = 1 
+c: S = 26 29 32 33 35  - pval = 1 
+c: S = 22 26 29 32 33 35  - pval = 1 
+
+Count: 34  N- 40 
+prob: 0.85 atio=: 0.85 
+
+decision: 2 
+
+Triple: 2 32 20 and sepset by skelet:  
+a: S =   - pval = 2.305049e-09 
+a: S = 4  - pval = 6.11598e-07 
+a: S = 10  - pval = 1.636835e-08 
+a: S = 4 10  - pval = 7.650666e-07 
+a: S = 32  - pval = 0.8490351 
+a: S = 4 32  - pval = 0.9425833 
+a: S = 10 32  - pval = 0.8671048 
+a: S = 4 10 32  - pval = 0.9999643 
+c: S =   - pval = 2.305049e-09 
+c: S = 26  - pval = 1.0892e-14 
+c: S = 32  - pval = 0.8490351 
+c: S = 26 32  - pval = 0.7493878 
+c: S = 33  - pval = 0.02657853 
+c: S = 26 33  - pval = 0.07245024 
+c: S = 32 33  - pval = 0.9850675 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 8.713497e-37 
+c: S = 26 35  - pval = 2.78188e-17 
+c: S = 32 35  - pval = 0.9997688 
+c: S = 26 32 35  - pval = 1 
+c: S = 33 35  - pval = 6.776018e-06 
+c: S = 26 33 35  - pval = 0.9948976 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 12  N- 15 
+prob: 0.8 atio=: 0.8 
+
+decision: 2 
+
+Triple: 2 32 28 and sepset by skelet:  
+a: S =   - pval = 2.768569e-178 
+a: S = 4  - pval = 1.092479e-156 
+a: S = 10  - pval = 8.216843e-126 
+a: S = 4 10  - pval = 1.429436e-111 
+a: S = 32  - pval = 0.6112089 
+a: S = 4 32  - pval = 0.9908861 
+a: S = 10 32  - pval = 0.9999994 
+a: S = 4 10 32  - pval = 1 
+c: S =   - pval = 2.768569e-178 
+c: S = 11  - pval = 5.57442e-179 
+c: S = 27  - pval = 2.777424e-174 
+c: S = 11 27  - pval = 7.757757e-172 
+c: S = 29  - pval = 5.532174e-59 
+c: S = 11 29  - pval = 2.788855e-53 
+c: S = 27 29  - pval = 4.569992e-51 
+c: S = 11 27 29  - pval = 2.365853e-41 
+c: S = 32  - pval = 0.6112089 
+c: S = 11 32  - pval = 0.998716 
+c: S = 27 32  - pval = 0.9976613 
+c: S = 11 27 32  - pval = 1 
+c: S = 29 32  - pval = 0.99986 
+c: S = 11 29 32  - pval = 1 
+c: S = 27 29 32  - pval = 1 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 12  N- 12 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 2 32 33 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 4  - pval = 0 
+a: S = 10  - pval = 0 
+a: S = 4 10  - pval = 0 
+a: S = 32  - pval = 0.7216021 
+a: S = 4 32  - pval = 0.8059576 
+a: S = 10 32  - pval = 3.122472e-103 
+a: S = 4 10 32  - pval = 7.83904e-66 
+c: S =   - pval = 0 
+c: S = 10  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 10 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 10 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 10 19 20  - pval = 0 
+c: S = 22  - pval = 3.381277e-204 
+c: S = 10 22  - pval = 1.382867e-176 
+c: S = 19 22  - pval = 4.364966e-213 
+c: S = 10 19 22  - pval = 1.414117e-37 
+c: S = 20 22  - pval = 7.189463e-187 
+c: S = 10 20 22  - pval = 2.50231e-131 
+c: S = 19 20 22  - pval = 5.108146e-173 
+c: S = 10 19 20 22  - pval = 0.000289888 
+c: S = 32  - pval = 0.7216021 
+c: S = 10 32  - pval = 3.122472e-103 
+c: S = 19 32  - pval = 1 
+c: S = 10 19 32  - pval = 1.811788e-10 
+c: S = 20 32  - pval = 0.9560886 
+c: S = 10 20 32  - pval = 1.94532e-66 
+c: S = 19 20 32  - pval = 1 
+c: S = 10 19 20 32  - pval = 0.9998358 
+c: S = 22 32  - pval = 1 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 1 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 0 
+c: S = 10 35  - pval = 0 
+c: S = 19 35  - pval = 0 
+c: S = 10 19 35  - pval = 1.139524e-198 
+c: S = 20 35  - pval = 0 
+c: S = 10 20 35  - pval = 3.053413e-279 
+c: S = 19 20 35  - pval = 0 
+c: S = 10 19 20 35  - pval = 5.825519e-100 
+c: S = 22 35  - pval = 2.582419e-153 
+c: S = 10 22 35  - pval = 4.129443e-31 
+c: S = 19 22 35  - pval = 4.052482e-63 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 3.264268e-109 
+c: S = 10 20 22 35  - pval = 0.375887 
+c: S = 19 20 22 35  - pval = 1.337925e-13 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 1 
+c: S = 10 32 35  - pval = 7.534643e-09 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 1 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 1 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 30  N- 33 
+prob: 0.9090909 atio=: 0.9090909 
+
+decision: 2 
+
+Triple: 19 32 20 and sepset by skelet:  
+a: S =   - pval = 0.6559049 
+a: S = 22  - pval = 1.20267e-05 
+a: S = 26  - pval = 1.792302e-21 
+a: S = 22 26  - pval = 2.091682e-05 
+a: S = 29  - pval = 0.7053295 
+a: S = 22 29  - pval = 0.0178402 
+a: S = 26 29  - pval = 2.024199e-14 
+a: S = 22 26 29  - pval = 0.7683084 
+a: S = 32  - pval = 2.436242e-17 
+a: S = 22 32  - pval = 0.1961994 
+a: S = 26 32  - pval = 2.105628e-09 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 6.80062e-11 
+a: S = 22 29 32  - pval = 0.9999998 
+a: S = 26 29 32  - pval = 0.3851297 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 0.191489 
+a: S = 22 33  - pval = 0.9999994 
+a: S = 26 33  - pval = 3.73953e-13 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 0.8961729 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.02773294 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 0.9999766 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.07249955 
+a: S = 22 35  - pval = 0.01360967 
+a: S = 26 35  - pval = 2.912305e-30 
+a: S = 22 26 35  - pval = 0.9998906 
+a: S = 29 35  - pval = 0.7917002 
+a: S = 22 29 35  - pval = 0.9999369 
+a: S = 26 29 35  - pval = 3.946899e-12 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 6.884394e-06 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 0.9983579 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 0.8759009 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 2.876396e-07 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 6.914275e-09 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 0.6308842 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.6559049 
+c: S = 26  - pval = 1.792302e-21 
+c: S = 32  - pval = 2.436242e-17 
+c: S = 26 32  - pval = 2.105628e-09 
+c: S = 33  - pval = 0.191489 
+c: S = 26 33  - pval = 3.73953e-13 
+c: S = 32 33  - pval = 0.9999766 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 0.07249955 
+c: S = 26 35  - pval = 2.912305e-30 
+c: S = 32 35  - pval = 6.884394e-06 
+c: S = 26 32 35  - pval = 0.9983579 
+c: S = 33 35  - pval = 2.876396e-07 
+c: S = 26 33 35  - pval = 6.914275e-09 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 33  N- 59 
+prob: 0.559322 atio=: 0.559322 
+
+decision: 2 
+
+Triple: 19 32 28 and sepset by skelet: 29 
+a: S =   - pval = 2.308937e-07 
+a: S = 22  - pval = 0.005670426 
+a: S = 26  - pval = 1.623903e-07 
+a: S = 22 26  - pval = 0.5568517 
+a: S = 29  - pval = 3.798344e-21 
+a: S = 22 29  - pval = 4.678105e-06 
+a: S = 26 29  - pval = 8.959481e-09 
+a: S = 22 26 29  - pval = 1 
+a: S = 32  - pval = 0.9542714 
+a: S = 22 32  - pval = 1 
+a: S = 26 32  - pval = 1 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 0.07463037 
+a: S = 22 29 32  - pval = 1 
+a: S = 26 29 32  - pval = 1 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 6.897021e-14 
+a: S = 22 33  - pval = 0.006957999 
+a: S = 26 33  - pval = 0.001311781 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 2.185443e-10 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.9978992 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 1 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 5.465418e-18 
+a: S = 22 35  - pval = 0.0403229 
+a: S = 26 35  - pval = 0.00539415 
+a: S = 22 26 35  - pval = 1 
+a: S = 29 35  - pval = 7.536169e-13 
+a: S = 22 29 35  - pval = 0.9999999 
+a: S = 26 29 35  - pval = 0.9999991 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 0.9999996 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 1 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 1 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 0.3733124 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 1 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 1 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 2.308937e-07 
+c: S = 11  - pval = 9.12845e-06 
+c: S = 27  - pval = 1.123046e-05 
+c: S = 11 27  - pval = 0.001448849 
+c: S = 29  - pval = 3.798344e-21 
+c: S = 11 29  - pval = 4.461721e-16 
+c: S = 27 29  - pval = 3.215694e-16 
+c: S = 11 27 29  - pval = 1.939181e-09 
+c: S = 32  - pval = 0.9542714 
+c: S = 11 32  - pval = 0.9999934 
+c: S = 27 32  - pval = 0.9999964 
+c: S = 11 27 32  - pval = 1 
+c: S = 29 32  - pval = 0.07463037 
+c: S = 11 29 32  - pval = 0.9963696 
+c: S = 27 29 32  - pval = 0.9955922 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 40  N- 59 
+prob: 0.6779661 atio=: 0.6779661 
+
+decision: 2 
+
+Triple: 20 32 28 and sepset by skelet:  
+a: S =   - pval = 0.2088173 
+a: S = 26  - pval = 0.6402565 
+a: S = 32  - pval = 0.6979572 
+a: S = 26 32  - pval = 0.9998482 
+a: S = 33  - pval = 0.2235648 
+a: S = 26 33  - pval = 0.6597694 
+a: S = 32 33  - pval = 0.9995738 
+a: S = 26 32 33  - pval = 1 
+a: S = 35  - pval = 0.4124935 
+a: S = 26 35  - pval = 0.9900391 
+a: S = 32 35  - pval = 0.9999944 
+a: S = 26 32 35  - pval = 1 
+a: S = 33 35  - pval = 0.9732558 
+a: S = 26 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+c: S =   - pval = 0.2088173 
+c: S = 11  - pval = 0.5058789 
+c: S = 27  - pval = 0.5231411 
+c: S = 11 27  - pval = 0.9068458 
+c: S = 29  - pval = 0.8225243 
+c: S = 11 29  - pval = 0.9963498 
+c: S = 27 29  - pval = 0.996487 
+c: S = 11 27 29  - pval = 1 
+c: S = 32  - pval = 0.6979572 
+c: S = 11 32  - pval = 0.995665 
+c: S = 27 32  - pval = 0.9920344 
+c: S = 11 27 32  - pval = 1 
+c: S = 29 32  - pval = 0.9999983 
+c: S = 11 29 32  - pval = 1 
+c: S = 27 29 32  - pval = 1 
+c: S = 11 27 29 32  - pval = 1 
+
+Count: 16  N- 32 
+prob: 0.5 atio=: 0.5 
+Triple ambiguous
+
+decision: 3 
+
+Triple: 28 32 33 and sepset by skelet:  
+a: S =   - pval = 2.904684e-28 
+a: S = 11  - pval = 4.746914e-25 
+a: S = 27  - pval = 1.406066e-24 
+a: S = 11 27  - pval = 1.895591e-19 
+a: S = 29  - pval = 4.67328e-12 
+a: S = 11 29  - pval = 4.052922e-07 
+a: S = 27 29  - pval = 7.714565e-07 
+a: S = 11 27 29  - pval = 0.04323081 
+a: S = 32  - pval = 0.9881236 
+a: S = 11 32  - pval = 1 
+a: S = 27 32  - pval = 1 
+a: S = 11 27 32  - pval = 1 
+a: S = 29 32  - pval = 0.994243 
+a: S = 11 29 32  - pval = 1 
+a: S = 27 29 32  - pval = 1 
+a: S = 11 27 29 32  - pval = 1 
+c: S =   - pval = 2.904684e-28 
+c: S = 10  - pval = 6.653627e-80 
+c: S = 19  - pval = 1.274719e-33 
+c: S = 10 19  - pval = 3.519267e-66 
+c: S = 20  - pval = 5.550986e-26 
+c: S = 10 20  - pval = 1.564453e-64 
+c: S = 19 20  - pval = 2.604794e-27 
+c: S = 10 19 20  - pval = 7.688835e-40 
+c: S = 22  - pval = 4.123314e-09 
+c: S = 10 22  - pval = 0.000183718 
+c: S = 19 22  - pval = 3.010403e-07 
+c: S = 10 19 22  - pval = 1 
+c: S = 20 22  - pval = 6.245337e-05 
+c: S = 10 20 22  - pval = 0.9877567 
+c: S = 19 20 22  - pval = 0.2321163 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 0.9881236 
+c: S = 10 32  - pval = 1 
+c: S = 19 32  - pval = 1 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 0.9999859 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 1 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 1 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 1 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 1.987179e-17 
+c: S = 10 35  - pval = 2.718569e-18 
+c: S = 19 35  - pval = 0.1982634 
+c: S = 10 19 35  - pval = 0.9995694 
+c: S = 20 35  - pval = 1.069798e-11 
+c: S = 10 20 35  - pval = 0.002838939 
+c: S = 19 20 35  - pval = 0.9999875 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 0.5777349 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 1 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 1 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 1 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 40  N- 57 
+prob: 0.7017544 atio=: 0.7017544 
+
+decision: 2 
+
+Triple: 10 33 19 and sepset by skelet:  
+a: S =   - pval = 5.337178e-242 
+a: S = 2  - pval = 0 
+a: S = 33  - pval = 3.206225e-244 
+a: S = 2 33  - pval = 0.9999979 
+c: S =   - pval = 5.337178e-242 
+c: S = 22  - pval = 0 
+c: S = 26  - pval = 1.306513e-230 
+c: S = 22 26  - pval = 0 
+c: S = 29  - pval = 1.558328e-233 
+c: S = 22 29  - pval = 0 
+c: S = 26 29  - pval = 2.916505e-198 
+c: S = 22 26 29  - pval = 2.586459e-293 
+c: S = 32  - pval = 0 
+c: S = 22 32  - pval = 0 
+c: S = 26 32  - pval = 0 
+c: S = 22 26 32  - pval = 3.195967e-193 
+c: S = 29 32  - pval = 0 
+c: S = 22 29 32  - pval = 5.813526e-262 
+c: S = 26 29 32  - pval = 6.441629e-310 
+c: S = 22 26 29 32  - pval = 1 
+c: S = 33  - pval = 3.206225e-244 
+c: S = 22 33  - pval = 8.332513e-12 
+c: S = 26 33  - pval = 2.939613e-175 
+c: S = 22 26 33  - pval = 1 
+c: S = 29 33  - pval = 1.007275e-212 
+c: S = 22 29 33  - pval = 0.9992201 
+c: S = 26 29 33  - pval = 7.189903e-101 
+c: S = 22 26 29 33  - pval = 1 
+c: S = 32 33  - pval = 1 
+c: S = 22 32 33  - pval = 1 
+c: S = 26 32 33  - pval = 1 
+c: S = 22 26 32 33  - pval = 1 
+c: S = 29 32 33  - pval = 1 
+c: S = 22 29 32 33  - pval = 1 
+c: S = 26 29 32 33  - pval = 1 
+c: S = 22 26 29 32 33  - pval = 1 
+c: S = 35  - pval = 0 
+c: S = 22 35  - pval = 0 
+c: S = 26 35  - pval = 1.185603e-211 
+c: S = 22 26 35  - pval = 5.352108e-178 
+c: S = 29 35  - pval = 0 
+c: S = 22 29 35  - pval = 3.331323e-300 
+c: S = 26 29 35  - pval = 2.236843e-127 
+c: S = 22 26 29 35  - pval = 1 
+c: S = 32 35  - pval = 0 
+c: S = 22 32 35  - pval = 1.702559e-168 
+c: S = 26 32 35  - pval = 3.031526e-134 
+c: S = 22 26 32 35  - pval = 1 
+c: S = 29 32 35  - pval = 3.60269e-279 
+c: S = 22 29 32 35  - pval = 1 
+c: S = 26 29 32 35  - pval = 1 
+c: S = 22 26 29 32 35  - pval = 1 
+c: S = 33 35  - pval = 2.018208e-62 
+c: S = 22 33 35  - pval = 1 
+c: S = 26 33 35  - pval = 0.9121659 
+c: S = 22 26 33 35  - pval = 1 
+c: S = 29 33 35  - pval = 7.637165e-18 
+c: S = 22 29 33 35  - pval = 1 
+c: S = 26 29 33 35  - pval = 1 
+c: S = 22 26 29 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 22 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+c: S = 22 26 32 33 35  - pval = 1 
+c: S = 29 32 33 35  - pval = 1 
+c: S = 22 29 32 33 35  - pval = 1 
+c: S = 26 29 32 33 35  - pval = 1 
+c: S = 22 26 29 32 33 35  - pval = 1 
+
+Count: 26  N- 32 
+prob: 0.8125 atio=: 0.8125 
+
+decision: 2 
+
+Triple: 10 33 20 and sepset by skelet:  
+a: S =   - pval = 4.308968e-24 
+a: S = 2  - pval = 1.865851e-22 
+a: S = 33  - pval = 0.9757321 
+a: S = 2 33  - pval = 0.9999997 
+c: S =   - pval = 4.308968e-24 
+c: S = 26  - pval = 3.544764e-17 
+c: S = 32  - pval = 3.762395e-15 
+c: S = 26 32  - pval = 0.0004984802 
+c: S = 33  - pval = 0.9757321 
+c: S = 26 33  - pval = 0.9998084 
+c: S = 32 33  - pval = 0.9999974 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 5.122331e-46 
+c: S = 26 35  - pval = 6.572226e-11 
+c: S = 32 35  - pval = 5.863329e-05 
+c: S = 26 32 35  - pval = 1 
+c: S = 33 35  - pval = 0.9999957 
+c: S = 26 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 10  N- 11 
+prob: 0.9090909 atio=: 0.9090909 
+
+decision: 2 
+
+Triple: 10 33 22 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 33  - pval = 1.26251e-193 
+a: S = 2 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 33  - pval = 1.26251e-193 
+c: S = 19 33  - pval = 1 
+
+Count: 2  N- 2 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 10 33 32 and sepset by skelet: 2 
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 33  - pval = 0 
+a: S = 2 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 2  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 2 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 2 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 2 19 20  - pval = 0 
+c: S = 28  - pval = 0 
+c: S = 2 28  - pval = 0 
+c: S = 19 28  - pval = 0 
+c: S = 2 19 28  - pval = 0 
+c: S = 20 28  - pval = 0 
+c: S = 2 20 28  - pval = 0 
+c: S = 19 20 28  - pval = 0 
+c: S = 2 19 20 28  - pval = 1.927653e-314 
+c: S = 33  - pval = 0 
+c: S = 2 33  - pval = 1 
+c: S = 19 33  - pval = 2.604288e-125 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0 
+c: S = 2 20 33  - pval = 1 
+c: S = 19 20 33  - pval = 1.045407e-84 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 2.782388e-253 
+c: S = 2 28 33  - pval = 1 
+c: S = 19 28 33  - pval = 0.4219255 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 1.070312e-200 
+c: S = 2 20 28 33  - pval = 1 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 11  N- 11 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 10 33 35 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 2  - pval = 0 
+a: S = 33  - pval = 1.300832e-131 
+a: S = 2 33  - pval = 0.9999671 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 1.300832e-131 
+c: S = 7 33  - pval = 6.285369e-91 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 3.575832e-113 
+c: S = 7 20 33  - pval = 3.215565e-64 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 1.824464e-98 
+c: S = 7 26 33  - pval = 1.256944e-28 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 3.186985e-56 
+c: S = 7 20 26 33  - pval = 0.02881588 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.624871e-169 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 1.125434e-127 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 3.324e-140 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 5.642593e-74 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 1.707744e-100 
+c: S = 19 26 34  - pval = 2.137214e-231 
+c: S = 7 19 26 34  - pval = 4.052123e-09 
+c: S = 20 26 34  - pval = 8.525911e-278 
+c: S = 7 20 26 34  - pval = 2.685326e-39 
+c: S = 19 20 26 34  - pval = 1.453649e-116 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 9.344674e-42 
+c: S = 7 33 34  - pval = 1 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 9.202026e-15 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 0.03127869 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 24  N- 25 
+prob: 0.96 atio=: 0.96 
+
+decision: 2 
+
+Triple: 19 33 20 and sepset by skelet: 32 
+a: S =   - pval = 0.6559049 
+a: S = 22  - pval = 1.20267e-05 
+a: S = 26  - pval = 1.792302e-21 
+a: S = 22 26  - pval = 2.091682e-05 
+a: S = 29  - pval = 0.7053295 
+a: S = 22 29  - pval = 0.0178402 
+a: S = 26 29  - pval = 2.024199e-14 
+a: S = 22 26 29  - pval = 0.7683084 
+a: S = 32  - pval = 2.436242e-17 
+a: S = 22 32  - pval = 0.1961994 
+a: S = 26 32  - pval = 2.105628e-09 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 6.80062e-11 
+a: S = 22 29 32  - pval = 0.9999998 
+a: S = 26 29 32  - pval = 0.3851297 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 0.191489 
+a: S = 22 33  - pval = 0.9999994 
+a: S = 26 33  - pval = 3.73953e-13 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 0.8961729 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.02773294 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 0.9999766 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.07249955 
+a: S = 22 35  - pval = 0.01360967 
+a: S = 26 35  - pval = 2.912305e-30 
+a: S = 22 26 35  - pval = 0.9998906 
+a: S = 29 35  - pval = 0.7917002 
+a: S = 22 29 35  - pval = 0.9999369 
+a: S = 26 29 35  - pval = 3.946899e-12 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 6.884394e-06 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 0.9983579 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 0.8759009 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 2.876396e-07 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 6.914275e-09 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 0.6308842 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.6559049 
+c: S = 26  - pval = 1.792302e-21 
+c: S = 32  - pval = 2.436242e-17 
+c: S = 26 32  - pval = 2.105628e-09 
+c: S = 33  - pval = 0.191489 
+c: S = 26 33  - pval = 3.73953e-13 
+c: S = 32 33  - pval = 0.9999766 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 0.07249955 
+c: S = 26 35  - pval = 2.912305e-30 
+c: S = 32 35  - pval = 6.884394e-06 
+c: S = 26 32 35  - pval = 0.9983579 
+c: S = 33 35  - pval = 2.876396e-07 
+c: S = 26 33 35  - pval = 6.914275e-09 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 34  N- 59 
+prob: 0.5762712 atio=: 0.5762712 
+
+decision: 2 
+
+Triple: 20 33 22 and sepset by skelet:  
+a: S =   - pval = 4.489596e-27 
+a: S = 26  - pval = 5.200316e-36 
+a: S = 32  - pval = 2.6871e-12 
+a: S = 26 32  - pval = 1.310166e-05 
+a: S = 33  - pval = 0.300956 
+a: S = 26 33  - pval = 4.681565e-07 
+a: S = 32 33  - pval = 0.9999998 
+a: S = 26 32 33  - pval = 1 
+a: S = 35  - pval = 4.087694e-63 
+a: S = 26 35  - pval = 1.401042e-47 
+a: S = 32 35  - pval = 0.0003897632 
+a: S = 26 32 35  - pval = 1 
+a: S = 33 35  - pval = 0.00057125 
+a: S = 26 33 35  - pval = 0.04713491 
+a: S = 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+c: S =   - pval = 4.489596e-27 
+c: S = 19  - pval = 3.15808e-30 
+c: S = 33  - pval = 0.300956 
+c: S = 19 33  - pval = 0.999997 
+
+Count: 8  N- 9 
+prob: 0.8888889 atio=: 0.8888889 
+
+decision: 2 
+
+Triple: 22 33 32 and sepset by skelet: 19 
+a: S =   - pval = 0 
+a: S = 19  - pval = 0 
+a: S = 33  - pval = 0 
+a: S = 19 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 2  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 2 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 2 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 2 19 20  - pval = 0 
+c: S = 28  - pval = 0 
+c: S = 2 28  - pval = 0 
+c: S = 19 28  - pval = 0 
+c: S = 2 19 28  - pval = 0 
+c: S = 20 28  - pval = 0 
+c: S = 2 20 28  - pval = 0 
+c: S = 19 20 28  - pval = 0 
+c: S = 2 19 20 28  - pval = 2.257561e-293 
+c: S = 33  - pval = 0 
+c: S = 2 33  - pval = 3.949756e-275 
+c: S = 19 33  - pval = 1 
+c: S = 2 19 33  - pval = 1 
+c: S = 20 33  - pval = 0 
+c: S = 2 20 33  - pval = 1.724427e-220 
+c: S = 19 20 33  - pval = 1 
+c: S = 2 19 20 33  - pval = 1 
+c: S = 28 33  - pval = 0 
+c: S = 2 28 33  - pval = 2.668458e-173 
+c: S = 19 28 33  - pval = 1 
+c: S = 2 19 28 33  - pval = 1 
+c: S = 20 28 33  - pval = 0 
+c: S = 2 20 28 33  - pval = 1.968458e-86 
+c: S = 19 20 28 33  - pval = 1 
+c: S = 2 19 20 28 33  - pval = 1 
+
+Count: 9  N- 9 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 22 33 35 and sepset by skelet: 19 
+a: S =   - pval = 0 
+a: S = 19  - pval = 0 
+a: S = 33  - pval = 1.73779e-266 
+a: S = 19 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 1.73779e-266 
+c: S = 7 33  - pval = 8.489217e-183 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 8.844366e-256 
+c: S = 7 20 33  - pval = 1.205557e-155 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 9.125724e-312 
+c: S = 7 26 33  - pval = 5.892917e-141 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 1.651436e-263 
+c: S = 7 20 26 33  - pval = 9.366649e-77 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.329212e-195 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 1.719196e-148 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 1.63431e-168 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 6.104798e-92 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 1.99763e-123 
+c: S = 19 26 34  - pval = 5.404222e-285 
+c: S = 7 19 26 34  - pval = 3.085272e-16 
+c: S = 20 26 34  - pval = 0 
+c: S = 7 20 26 34  - pval = 1.486218e-57 
+c: S = 19 20 26 34  - pval = 4.605784e-157 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 4.832378e-102 
+c: S = 7 33 34  - pval = 0.67775 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 1.736489e-65 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 2.57515e-60 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 22  N- 23 
+prob: 0.9565217 atio=: 0.9565217 
+
+decision: 2 
+
+Triple: 32 33 35 and sepset by skelet: 19 20 
+a: S =   - pval = 0 
+a: S = 2  - pval = 8.352977e-249 
+a: S = 19  - pval = 0 
+a: S = 2 19  - pval = 3.947396e-269 
+a: S = 20  - pval = 0 
+a: S = 2 20  - pval = 2.534648e-248 
+a: S = 19 20  - pval = 0 
+a: S = 2 19 20  - pval = 2.093826e-239 
+a: S = 28  - pval = 0 
+a: S = 2 28  - pval = 7.92018e-206 
+a: S = 19 28  - pval = 0 
+a: S = 2 19 28  - pval = 9.555897e-182 
+a: S = 20 28  - pval = 0 
+a: S = 2 20 28  - pval = 7.577549e-182 
+a: S = 19 20 28  - pval = 0 
+a: S = 2 19 20 28  - pval = 4.447918e-116 
+a: S = 33  - pval = 4.618311e-258 
+a: S = 2 33  - pval = 1.363105e-35 
+a: S = 19 33  - pval = 1 
+a: S = 2 19 33  - pval = 1 
+a: S = 20 33  - pval = 3.728874e-248 
+a: S = 2 20 33  - pval = 5.041661e-15 
+a: S = 19 20 33  - pval = 1 
+a: S = 2 19 20 33  - pval = 1 
+a: S = 28 33  - pval = 1.900052e-203 
+a: S = 2 28 33  - pval = 0.01130159 
+a: S = 19 28 33  - pval = 1 
+a: S = 2 19 28 33  - pval = 1 
+a: S = 20 28 33  - pval = 1.569623e-166 
+a: S = 2 20 28 33  - pval = 1 
+a: S = 19 20 28 33  - pval = 1 
+a: S = 2 19 20 28 33  - pval = 1 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 4.618311e-258 
+c: S = 7 33  - pval = 3.41187e-171 
+c: S = 19 33  - pval = 1 
+c: S = 7 19 33  - pval = 1 
+c: S = 20 33  - pval = 3.728874e-248 
+c: S = 7 20 33  - pval = 2.981275e-145 
+c: S = 19 20 33  - pval = 1 
+c: S = 7 19 20 33  - pval = 1 
+c: S = 26 33  - pval = 5.927723e-301 
+c: S = 7 26 33  - pval = 7.614063e-128 
+c: S = 19 26 33  - pval = 1 
+c: S = 7 19 26 33  - pval = 1 
+c: S = 20 26 33  - pval = 1.32717e-253 
+c: S = 7 20 26 33  - pval = 4.450163e-67 
+c: S = 19 20 26 33  - pval = 1 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0 
+c: S = 7 34  - pval = 1.96845e-157 
+c: S = 19 34  - pval = 0 
+c: S = 7 19 34  - pval = 7.773486e-142 
+c: S = 20 34  - pval = 0 
+c: S = 7 20 34  - pval = 2.501733e-134 
+c: S = 19 20 34  - pval = 0 
+c: S = 7 19 20 34  - pval = 1.352093e-86 
+c: S = 26 34  - pval = 0 
+c: S = 7 26 34  - pval = 8.999871e-85 
+c: S = 19 26 34  - pval = 3.568391e-277 
+c: S = 7 19 26 34  - pval = 1.452984e-12 
+c: S = 20 26 34  - pval = 0 
+c: S = 7 20 26 34  - pval = 3.182682e-31 
+c: S = 19 20 26 34  - pval = 1.390713e-151 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 6.877695e-99 
+c: S = 7 33 34  - pval = 0.9285321 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 2.093839e-62 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 1.733588e-54 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 31  N- 32 
+prob: 0.96875 atio=: 0.96875 
+
+decision: 2 
+
+Triple: 23 34 35 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 34  - pval = 0.8454725 
+c: S =   - pval = 0 
+c: S = 7  - pval = 0 
+c: S = 19  - pval = 0 
+c: S = 7 19  - pval = 0 
+c: S = 20  - pval = 0 
+c: S = 7 20  - pval = 0 
+c: S = 19 20  - pval = 0 
+c: S = 7 19 20  - pval = 0 
+c: S = 26  - pval = 0 
+c: S = 7 26  - pval = 0 
+c: S = 19 26  - pval = 0 
+c: S = 7 19 26  - pval = 0 
+c: S = 20 26  - pval = 0 
+c: S = 7 20 26  - pval = 0 
+c: S = 19 20 26  - pval = 0 
+c: S = 7 19 20 26  - pval = 0 
+c: S = 33  - pval = 0 
+c: S = 7 33  - pval = 0 
+c: S = 19 33  - pval = 0 
+c: S = 7 19 33  - pval = 0 
+c: S = 20 33  - pval = 0 
+c: S = 7 20 33  - pval = 0 
+c: S = 19 20 33  - pval = 0 
+c: S = 7 19 20 33  - pval = 1.12451e-298 
+c: S = 26 33  - pval = 4.378112e-267 
+c: S = 7 26 33  - pval = 1.521126e-278 
+c: S = 19 26 33  - pval = 6.833542e-108 
+c: S = 7 19 26 33  - pval = 8.183255e-64 
+c: S = 20 26 33  - pval = 2.843383e-205 
+c: S = 7 20 26 33  - pval = 4.826237e-188 
+c: S = 19 20 26 33  - pval = 8.268418e-35 
+c: S = 7 19 20 26 33  - pval = 1 
+c: S = 34  - pval = 0.8454725 
+c: S = 7 34  - pval = 0.9987615 
+c: S = 19 34  - pval = 1 
+c: S = 7 19 34  - pval = 1 
+c: S = 20 34  - pval = 0.9999608 
+c: S = 7 20 34  - pval = 1 
+c: S = 19 20 34  - pval = 1 
+c: S = 7 19 20 34  - pval = 1 
+c: S = 26 34  - pval = 1 
+c: S = 7 26 34  - pval = 1 
+c: S = 19 26 34  - pval = 1 
+c: S = 7 19 26 34  - pval = 1 
+c: S = 20 26 34  - pval = 1 
+c: S = 7 20 26 34  - pval = 1 
+c: S = 19 20 26 34  - pval = 1 
+c: S = 7 19 20 26 34  - pval = 1 
+c: S = 33 34  - pval = 1 
+c: S = 7 33 34  - pval = 1 
+c: S = 19 33 34  - pval = 1 
+c: S = 7 19 33 34  - pval = 1 
+c: S = 20 33 34  - pval = 1 
+c: S = 7 20 33 34  - pval = 1 
+c: S = 19 20 33 34  - pval = 1 
+c: S = 7 19 20 33 34  - pval = 1 
+c: S = 26 33 34  - pval = 1 
+c: S = 7 26 33 34  - pval = 1 
+c: S = 19 26 33 34  - pval = 1 
+c: S = 7 19 26 33 34  - pval = 1 
+c: S = 20 26 33 34  - pval = 1 
+c: S = 7 20 26 33 34  - pval = 1 
+c: S = 19 20 26 33 34  - pval = 1 
+c: S = 7 19 20 26 33 34  - pval = 1 
+
+Count: 33  N- 34 
+prob: 0.9705882 atio=: 0.9705882 
+
+decision: 2 
+
+Triple: 7 35 19 and sepset by skelet:  
+a: S =   - pval = 0.08756316 
+a: S = 35  - pval = 0.3020845 
+c: S =   - pval = 0.08756316 
+c: S = 22  - pval = 2.050352e-09 
+c: S = 26  - pval = 6.504543e-98 
+c: S = 22 26  - pval = 1.180434e-36 
+c: S = 29  - pval = 0.05486432 
+c: S = 22 29  - pval = 3.25073e-05 
+c: S = 26 29  - pval = 1.701939e-87 
+c: S = 22 26 29  - pval = 5.690283e-18 
+c: S = 32  - pval = 5.800114e-15 
+c: S = 22 32  - pval = 2.767016e-09 
+c: S = 26 32  - pval = 2.714011e-68 
+c: S = 22 26 32  - pval = 1.086414e-07 
+c: S = 29 32  - pval = 1.842396e-09 
+c: S = 22 29 32  - pval = 0.3275162 
+c: S = 26 29 32  - pval = 8.086861e-42 
+c: S = 22 26 29 32  - pval = 1 
+c: S = 33  - pval = 4.638979e-78 
+c: S = 22 33  - pval = 1.076524e-10 
+c: S = 26 33  - pval = 2.199435e-134 
+c: S = 22 26 33  - pval = 0.01119044 
+c: S = 29 33  - pval = 2.049906e-66 
+c: S = 22 29 33  - pval = 0.159709 
+c: S = 26 29 33  - pval = 3.19558e-99 
+c: S = 22 26 29 33  - pval = 1 
+c: S = 32 33  - pval = 5.157985e-07 
+c: S = 22 32 33  - pval = 1 
+c: S = 26 32 33  - pval = 0.1150272 
+c: S = 22 26 32 33  - pval = 1 
+c: S = 29 32 33  - pval = 0.7662182 
+c: S = 22 29 32 33  - pval = 1 
+c: S = 26 29 32 33  - pval = 1 
+c: S = 22 26 29 32 33  - pval = 1 
+c: S = 35  - pval = 0.3020845 
+c: S = 22 35  - pval = 0.9185293 
+c: S = 26 35  - pval = 0.9922584 
+c: S = 22 26 35  - pval = 1 
+c: S = 29 35  - pval = 0.8951035 
+c: S = 22 29 35  - pval = 1 
+c: S = 26 29 35  - pval = 1 
+c: S = 22 26 29 35  - pval = 1 
+c: S = 32 35  - pval = 0.9100256 
+c: S = 22 32 35  - pval = 1 
+c: S = 26 32 35  - pval = 1 
+c: S = 22 26 32 35  - pval = 1 
+c: S = 29 32 35  - pval = 1 
+c: S = 22 29 32 35  - pval = 1 
+c: S = 26 29 32 35  - pval = 1 
+c: S = 22 26 29 32 35  - pval = 1 
+c: S = 33 35  - pval = 0.9901389 
+c: S = 22 33 35  - pval = 1 
+c: S = 26 33 35  - pval = 1 
+c: S = 22 26 33 35  - pval = 1 
+c: S = 29 33 35  - pval = 1 
+c: S = 22 29 33 35  - pval = 1 
+c: S = 26 29 33 35  - pval = 1 
+c: S = 22 26 29 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 22 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+c: S = 22 26 32 33 35  - pval = 1 
+c: S = 29 32 33 35  - pval = 1 
+c: S = 22 29 32 33 35  - pval = 1 
+c: S = 26 29 32 33 35  - pval = 1 
+c: S = 22 26 29 32 33 35  - pval = 1 
+
+Count: 33  N- 48 
+prob: 0.6875 atio=: 0.6875 
+
+decision: 2 
+
+Triple: 7 35 20 and sepset by skelet:  
+a: S =   - pval = 0.5428806 
+a: S = 35  - pval = 0.1608615 
+c: S =   - pval = 0.5428806 
+c: S = 26  - pval = 4.871176e-09 
+c: S = 32  - pval = 2.310584e-08 
+c: S = 26 32  - pval = 1.266849e-08 
+c: S = 33  - pval = 0.001855927 
+c: S = 26 33  - pval = 0.01377414 
+c: S = 32 33  - pval = 0.0006729675 
+c: S = 26 32 33  - pval = 0.3249848 
+c: S = 35  - pval = 0.1608615 
+c: S = 26 35  - pval = 0.4388576 
+c: S = 32 35  - pval = 0.5252231 
+c: S = 26 32 35  - pval = 1 
+c: S = 33 35  - pval = 0.5228705 
+c: S = 26 33 35  - pval = 1 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 9  N- 13 
+prob: 0.6923077 atio=: 0.6923077 
+
+decision: 2 
+
+Triple: 7 35 26 and sepset by skelet:  
+a: S =   - pval = 5.585949e-154 
+a: S = 35  - pval = 0.1437831 
+c: S =   - pval = 5.585949e-154 
+c: S = 19  - pval = 3.713047e-249 
+c: S = 20  - pval = 4.73792e-160 
+c: S = 19 20  - pval = 3.925314e-256 
+c: S = 35  - pval = 0.1437831 
+c: S = 19 35  - pval = 0.945282 
+c: S = 20 35  - pval = 0.313983 
+c: S = 19 20 35  - pval = 0.9999995 
+
+Count: 5  N- 5 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 7 35 33 and sepset by skelet:  
+a: S =   - pval = 4.203173e-131 
+a: S = 35  - pval = 0.3267613 
+c: S =   - pval = 4.203173e-131 
+c: S = 10  - pval = 3.678314e-28 
+c: S = 19  - pval = 2.170167e-206 
+c: S = 10 19  - pval = 1.447347e-27 
+c: S = 20  - pval = 2.440663e-131 
+c: S = 10 20  - pval = 3.190078e-23 
+c: S = 19 20  - pval = 1.425146e-204 
+c: S = 10 19 20  - pval = 1.488284e-17 
+c: S = 22  - pval = 3.768073e-18 
+c: S = 10 22  - pval = 2.539653e-05 
+c: S = 19 22  - pval = 1.569667e-18 
+c: S = 10 19 22  - pval = 0.9998964 
+c: S = 20 22  - pval = 3.608072e-13 
+c: S = 10 20 22  - pval = 0.4721493 
+c: S = 19 20 22  - pval = 8.156252e-10 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 2.274637e-19 
+c: S = 10 32  - pval = 0.9527061 
+c: S = 19 32  - pval = 6.20455e-11 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 4.449351e-14 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 0.0003920298 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 2.899943e-05 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 0.3788465 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 0.3267613 
+c: S = 10 35  - pval = 0.9989677 
+c: S = 19 35  - pval = 0.9826798 
+c: S = 10 19 35  - pval = 1 
+c: S = 20 35  - pval = 0.5754282 
+c: S = 10 20 35  - pval = 1 
+c: S = 19 20 35  - pval = 0.9999999 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 0.999976 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 0.999947 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 1 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 1 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 33  N- 47 
+prob: 0.7021277 atio=: 0.7021277 
+
+decision: 2 
+
+Triple: 7 35 34 and sepset by skelet:  
+a: S =   - pval = 0.7859089 
+a: S = 35  - pval = 0 
+c: S =   - pval = 0.7859089 
+c: S = 23  - pval = 0.7941634 
+c: S = 35  - pval = 0 
+c: S = 23 35  - pval = 3.137154e-214 
+
+Count: 0  N- 3 
+prob: 0 atio=: 0 
+
+decision: 1 
+
+Triple: 19 35 20 and sepset by skelet: 32 33 
+a: S =   - pval = 0.6559049 
+a: S = 22  - pval = 1.20267e-05 
+a: S = 26  - pval = 1.792302e-21 
+a: S = 22 26  - pval = 2.091682e-05 
+a: S = 29  - pval = 0.7053295 
+a: S = 22 29  - pval = 0.0178402 
+a: S = 26 29  - pval = 2.024199e-14 
+a: S = 22 26 29  - pval = 0.7683084 
+a: S = 32  - pval = 2.436242e-17 
+a: S = 22 32  - pval = 0.1961994 
+a: S = 26 32  - pval = 2.105628e-09 
+a: S = 22 26 32  - pval = 1 
+a: S = 29 32  - pval = 6.80062e-11 
+a: S = 22 29 32  - pval = 0.9999998 
+a: S = 26 29 32  - pval = 0.3851297 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 0.191489 
+a: S = 22 33  - pval = 0.9999994 
+a: S = 26 33  - pval = 3.73953e-13 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 0.8961729 
+a: S = 22 29 33  - pval = 1 
+a: S = 26 29 33  - pval = 0.02773294 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 0.9999766 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 1 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.07249955 
+a: S = 22 35  - pval = 0.01360967 
+a: S = 26 35  - pval = 2.912305e-30 
+a: S = 22 26 35  - pval = 0.9998906 
+a: S = 29 35  - pval = 0.7917002 
+a: S = 22 29 35  - pval = 0.9999369 
+a: S = 26 29 35  - pval = 3.946899e-12 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 6.884394e-06 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 0.9983579 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 0.8759009 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 2.876396e-07 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 6.914275e-09 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 0.6308842 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.6559049 
+c: S = 26  - pval = 1.792302e-21 
+c: S = 32  - pval = 2.436242e-17 
+c: S = 26 32  - pval = 2.105628e-09 
+c: S = 33  - pval = 0.191489 
+c: S = 26 33  - pval = 3.73953e-13 
+c: S = 32 33  - pval = 0.9999766 
+c: S = 26 32 33  - pval = 1 
+c: S = 35  - pval = 0.07249955 
+c: S = 26 35  - pval = 2.912305e-30 
+c: S = 32 35  - pval = 6.884394e-06 
+c: S = 26 32 35  - pval = 0.9983579 
+c: S = 33 35  - pval = 2.876396e-07 
+c: S = 26 33 35  - pval = 6.914275e-09 
+c: S = 32 33 35  - pval = 1 
+c: S = 26 32 33 35  - pval = 1 
+
+Count: 31  N- 59 
+prob: 0.5254237 atio=: 0.5254237 
+
+decision: 2 
+
+Triple: 19 35 34 and sepset by skelet:  
+a: S =   - pval = 0.5212062 
+a: S = 22  - pval = 1.75699e-22 
+a: S = 26  - pval = 1.698071e-88 
+a: S = 22 26  - pval = 2.945637e-39 
+a: S = 29  - pval = 2.593057e-07 
+a: S = 22 29  - pval = 1.763088e-16 
+a: S = 26 29  - pval = 1.134615e-66 
+a: S = 22 26 29  - pval = 8.835564e-06 
+a: S = 32  - pval = 5.526873e-47 
+a: S = 22 32  - pval = 2.884688e-14 
+a: S = 26 32  - pval = 5.306742e-63 
+a: S = 22 26 32  - pval = 0.9999824 
+a: S = 29 32  - pval = 1.254538e-27 
+a: S = 22 29 32  - pval = 0.9897826 
+a: S = 26 29 32  - pval = 3.182887e-16 
+a: S = 22 26 29 32  - pval = 1 
+a: S = 33  - pval = 4.747249e-146 
+a: S = 22 33  - pval = 5.763574e-14 
+a: S = 26 33  - pval = 3.440042e-125 
+a: S = 22 26 33  - pval = 1 
+a: S = 29 33  - pval = 8.378468e-109 
+a: S = 22 29 33  - pval = 0.9999965 
+a: S = 26 29 33  - pval = 2.913203e-52 
+a: S = 22 26 29 33  - pval = 1 
+a: S = 32 33  - pval = 2.148496e-16 
+a: S = 22 32 33  - pval = 1 
+a: S = 26 32 33  - pval = 1 
+a: S = 22 26 32 33  - pval = 1 
+a: S = 29 32 33  - pval = 0.9809948 
+a: S = 22 29 32 33  - pval = 1 
+a: S = 26 29 32 33  - pval = 1 
+a: S = 22 26 29 32 33  - pval = 1 
+a: S = 35  - pval = 0.4737626 
+a: S = 22 35  - pval = 1 
+a: S = 26 35  - pval = 1 
+a: S = 22 26 35  - pval = 1 
+a: S = 29 35  - pval = 0.9999999 
+a: S = 22 29 35  - pval = 1 
+a: S = 26 29 35  - pval = 1 
+a: S = 22 26 29 35  - pval = 1 
+a: S = 32 35  - pval = 0.9999968 
+a: S = 22 32 35  - pval = 1 
+a: S = 26 32 35  - pval = 1 
+a: S = 22 26 32 35  - pval = 1 
+a: S = 29 32 35  - pval = 1 
+a: S = 22 29 32 35  - pval = 1 
+a: S = 26 29 32 35  - pval = 1 
+a: S = 22 26 29 32 35  - pval = 1 
+a: S = 33 35  - pval = 1 
+a: S = 22 33 35  - pval = 1 
+a: S = 26 33 35  - pval = 1 
+a: S = 22 26 33 35  - pval = 1 
+a: S = 29 33 35  - pval = 1 
+a: S = 22 29 33 35  - pval = 1 
+a: S = 26 29 33 35  - pval = 1 
+a: S = 22 26 29 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 22 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+a: S = 22 26 32 33 35  - pval = 1 
+a: S = 29 32 33 35  - pval = 1 
+a: S = 22 29 32 33 35  - pval = 1 
+a: S = 26 29 32 33 35  - pval = 1 
+a: S = 22 26 29 32 33 35  - pval = 1 
+c: S =   - pval = 0.5212062 
+c: S = 23  - pval = 0.3276066 
+c: S = 35  - pval = 0.4737626 
+c: S = 23 35  - pval = 0.9999616 
+
+Count: 34  N- 50 
+prob: 0.68 atio=: 0.68 
+
+decision: 2 
+
+Triple: 20 35 34 and sepset by skelet:  
+a: S =   - pval = 0.5657659 
+a: S = 26  - pval = 2.13312e-09 
+a: S = 32  - pval = 6.549348e-18 
+a: S = 26 32  - pval = 7.200454e-13 
+a: S = 33  - pval = 1.600272e-14 
+a: S = 26 33  - pval = 1.34711e-06 
+a: S = 32 33  - pval = 1.637234e-08 
+a: S = 26 32 33  - pval = 0.9803827 
+a: S = 35  - pval = 0.5572212 
+a: S = 26 35  - pval = 0.9993422 
+a: S = 32 35  - pval = 0.9999981 
+a: S = 26 32 35  - pval = 1 
+a: S = 33 35  - pval = 0.999996 
+a: S = 26 33 35  - pval = 1 
+a: S = 32 33 35  - pval = 1 
+a: S = 26 32 33 35  - pval = 1 
+c: S =   - pval = 0.5657659 
+c: S = 23  - pval = 0.7680861 
+c: S = 35  - pval = 0.5572212 
+c: S = 23 35  - pval = 0.9998592 
+
+Count: 10  N- 14 
+prob: 0.7142857 atio=: 0.7142857 
+
+decision: 2 
+
+Triple: 26 35 33 and sepset by skelet: 19 20 
+a: S =   - pval = 2.471013e-151 
+a: S = 19  - pval = 3.179797e-157 
+a: S = 20  - pval = 3.688795e-141 
+a: S = 19 20  - pval = 4.570978e-137 
+a: S = 35  - pval = 6.624534e-148 
+a: S = 19 35  - pval = 4.522441e-12 
+a: S = 20 35  - pval = 1.156999e-100 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 2.471013e-151 
+c: S = 10  - pval = 3.468579e-38 
+c: S = 19  - pval = 3.179797e-157 
+c: S = 10 19  - pval = 3.561427e-12 
+c: S = 20  - pval = 3.688795e-141 
+c: S = 10 20  - pval = 4.442263e-27 
+c: S = 19 20  - pval = 4.570978e-137 
+c: S = 10 19 20  - pval = 0.02253769 
+c: S = 22  - pval = 7.974263e-85 
+c: S = 10 22  - pval = 1.0747e-08 
+c: S = 19 22  - pval = 1.717999e-09 
+c: S = 10 19 22  - pval = 1 
+c: S = 20 22  - pval = 1.038606e-69 
+c: S = 10 20 22  - pval = 0.721233 
+c: S = 19 20 22  - pval = 0.3352764 
+c: S = 10 19 20 22  - pval = 1 
+c: S = 32  - pval = 5.178175e-56 
+c: S = 10 32  - pval = 0.5259554 
+c: S = 19 32  - pval = 0.0004789559 
+c: S = 10 19 32  - pval = 1 
+c: S = 20 32  - pval = 1.622758e-38 
+c: S = 10 20 32  - pval = 1 
+c: S = 19 20 32  - pval = 0.9896522 
+c: S = 10 19 20 32  - pval = 1 
+c: S = 22 32  - pval = 9.530487e-25 
+c: S = 10 22 32  - pval = 1 
+c: S = 19 22 32  - pval = 1 
+c: S = 10 19 22 32  - pval = 1 
+c: S = 20 22 32  - pval = 8.882818e-06 
+c: S = 10 20 22 32  - pval = 1 
+c: S = 19 20 22 32  - pval = 1 
+c: S = 10 19 20 22 32  - pval = 1 
+c: S = 35  - pval = 6.624534e-148 
+c: S = 10 35  - pval = 1.840313e-17 
+c: S = 19 35  - pval = 4.522441e-12 
+c: S = 10 19 35  - pval = 1 
+c: S = 20 35  - pval = 1.156999e-100 
+c: S = 10 20 35  - pval = 0.06523948 
+c: S = 19 20 35  - pval = 1 
+c: S = 10 19 20 35  - pval = 1 
+c: S = 22 35  - pval = 2.760407e-96 
+c: S = 10 22 35  - pval = 1 
+c: S = 19 22 35  - pval = 1 
+c: S = 10 19 22 35  - pval = 1 
+c: S = 20 22 35  - pval = 1.089163e-51 
+c: S = 10 20 22 35  - pval = 1 
+c: S = 19 20 22 35  - pval = 1 
+c: S = 10 19 20 22 35  - pval = 1 
+c: S = 32 35  - pval = 2.1385e-118 
+c: S = 10 32 35  - pval = 1 
+c: S = 19 32 35  - pval = 1 
+c: S = 10 19 32 35  - pval = 1 
+c: S = 20 32 35  - pval = 7.809622e-68 
+c: S = 10 20 32 35  - pval = 1 
+c: S = 19 20 32 35  - pval = 1 
+c: S = 10 19 20 32 35  - pval = 1 
+c: S = 22 32 35  - pval = 0.89385 
+c: S = 10 22 32 35  - pval = 1 
+c: S = 19 22 32 35  - pval = 1 
+c: S = 10 19 22 32 35  - pval = 1 
+c: S = 20 22 32 35  - pval = 1 
+c: S = 10 20 22 32 35  - pval = 1 
+c: S = 19 20 22 32 35  - pval = 1 
+c: S = 10 19 20 22 32 35  - pval = 1 
+
+Count: 25  N- 41 
+prob: 0.6097561 atio=: 0.6097561 
+
+decision: 2 
+
+Triple: 26 35 34 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 19  - pval = 0 
+a: S = 20  - pval = 0 
+a: S = 19 20  - pval = 0 
+a: S = 35  - pval = 0.151584 
+a: S = 19 35  - pval = 0.9999999 
+a: S = 20 35  - pval = 0.9085309 
+a: S = 19 20 35  - pval = 1 
+c: S =   - pval = 0 
+c: S = 23  - pval = 8.760519e-134 
+c: S = 35  - pval = 0.151584 
+c: S = 23 35  - pval = 0.9999545 
+
+Count: 6  N- 6 
+prob: 1 atio=: 1 
+
+decision: 2 
+
+Triple: 33 35 34 and sepset by skelet:  
+a: S =   - pval = 0 
+a: S = 10  - pval = 5.320971e-101 
+a: S = 19  - pval = 0 
+a: S = 10 19  - pval = 4.882355e-109 
+a: S = 20  - pval = 0 
+a: S = 10 20  - pval = 7.66619e-90 
+a: S = 19 20  - pval = 0 
+a: S = 10 19 20  - pval = 1.837006e-77 
+a: S = 22  - pval = 4.215393e-47 
+a: S = 10 22  - pval = 5.038642e-07 
+a: S = 19 22  - pval = 3.08521e-34 
+a: S = 10 19 22  - pval = 1 
+a: S = 20 22  - pval = 7.906965e-36 
+a: S = 10 20 22  - pval = 0.9300451 
+a: S = 19 20 22  - pval = 8.669767e-14 
+a: S = 10 19 20 22  - pval = 1 
+a: S = 32  - pval = 3.257054e-84 
+a: S = 10 32  - pval = 0.06872127 
+a: S = 19 32  - pval = 3.110903e-47 
+a: S = 10 19 32  - pval = 1 
+a: S = 20 32  - pval = 7.112029e-69 
+a: S = 10 20 32  - pval = 0.9999999 
+a: S = 19 20 32  - pval = 4.013927e-23 
+a: S = 10 19 20 32  - pval = 1 
+a: S = 22 32  - pval = 1.335552e-14 
+a: S = 10 22 32  - pval = 1 
+a: S = 19 22 32  - pval = 1 
+a: S = 10 19 22 32  - pval = 1 
+a: S = 20 22 32  - pval = 0.0769586 
+a: S = 10 20 22 32  - pval = 1 
+a: S = 19 20 22 32  - pval = 1 
+a: S = 10 19 20 22 32  - pval = 1 
+a: S = 35  - pval = 0.7332615 
+a: S = 10 35  - pval = 1 
+a: S = 19 35  - pval = 1 
+a: S = 10 19 35  - pval = 1 
+a: S = 20 35  - pval = 0.9998929 
+a: S = 10 20 35  - pval = 1 
+a: S = 19 20 35  - pval = 1 
+a: S = 10 19 20 35  - pval = 1 
+a: S = 22 35  - pval = 1 
+a: S = 10 22 35  - pval = 1 
+a: S = 19 22 35  - pval = 1 
+a: S = 10 19 22 35  - pval = 1 
+a: S = 20 22 35  - pval = 1 
+a: S = 10 20 22 35  - pval = 1 
+a: S = 19 20 22 35  - pval = 1 
+a: S = 10 19 20 22 35  - pval = 1 
+a: S = 32 35  - pval = 1 
+a: S = 10 32 35  - pval = 1 
+a: S = 19 32 35  - pval = 1 
+a: S = 10 19 32 35  - pval = 1 
+a: S = 20 32 35  - pval = 1 
+a: S = 10 20 32 35  - pval = 1 
+a: S = 19 20 32 35  - pval = 1 
+a: S = 10 19 20 32 35  - pval = 1 
+a: S = 22 32 35  - pval = 1 
+a: S = 10 22 32 35  - pval = 1 
+a: S = 19 22 32 35  - pval = 1 
+a: S = 10 19 22 32 35  - pval = 1 
+a: S = 20 22 32 35  - pval = 1 
+a: S = 10 20 22 32 35  - pval = 1 
+a: S = 19 20 22 32 35  - pval = 1 
+a: S = 10 19 20 22 32 35  - pval = 1 
+c: S =   - pval = 0 
+c: S = 23  - pval = 9.302384e-156 
+c: S = 35  - pval = 0.7332615 
+c: S = 23 35  - pval = 1 
+
+Count: 34  N- 48 
+prob: 0.7083333 atio=: 0.7083333 
+
+decision: 2 
+An object of class "attrData"
+Slot "data":
+list()
+
+Slot "defaults":
+list()
+
+ [1] "HR --> HRSAT"               "VENTTUBE --> PRESS"         "HYPOVOLEMIA --- LVEDVOLUME"
+ [4] "DISCONNECT --> VENTTUBE"    "LVEDVOLUME --- CVP"         "ARTCO2 --> CATECHOL"       
+ [7] "VENTLUNG --> MINVOL"        "STROKEVOLUME --> CO"        "TPR --> CATECHOL"          
+[10] "FIO2 --> PVSAT"             "ANAPHYLAXIS --- TPR"        "INTUBATION --> SAO2"       
+[13] "CO --> BP"                  "MINVOLSET --- VENTMACH"     "INTUBATION --> MINVOL"     
+[16] "SAO2 --> CATECHOL"          "ARTCO2 --> EXPCO2"          "ERRCAUTER --> HRSAT"       
+[19] "TPR --> BP"                 "KINKEDTUBE --> PRESS"       "PVSAT --> SAO2"            
+[22] "HR --> CO"                  "PULMEMBOLUS --- PAP"        "VENTLUNG --> VENTALV"      
+[25] "VENTALV --> ARTCO2"         "INTUBATION --> PRESS"       "HR --> HRBP"               
+[28] "VENTMACH --> VENTTUBE"      "ERRLOWOUTPUT --> HRBP"      "INTUBATION --> VENTALV"    
+[31] "VENTLUNG --> EXPCO2"        "VENTALV --> PVSAT"          "CATECHOL --> HR"           
