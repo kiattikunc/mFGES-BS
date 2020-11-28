@@ -323,12 +323,14 @@ for(iteration in 2:n_iter)
   amat <- (amat/(nrow(E)))
   amat_temp <- TetradGetAdjmat(Data[[i]]$pag)
   amat_undirect [ amat_temp ==t(amat_temp) &  amat_temp ==3 ] <- 3
+
+  
   
     #pheatmap(t(amat), cluster_rows = FALSE, cluster_cols = FALSE,color = colorRampPalette(c("white","grey", "blue"))(100))
     
     #amat <- round(amat)
-    # amat [ amat <thred ] <- 0
-    # amat [ amat >thred] <- 1
+     #amat [ amat <thred ] <- 0
+     #amat [ amat >thred] <- 1
     #print(mmhc(dataset))
     
     #pheatmap(t(true_mag_amat), cluster_rows = FALSE, cluster_cols = FALSE,color = colorRampPalette(c("white","green"))(100))
@@ -342,9 +344,9 @@ for(iteration in 2:n_iter)
     
 ## BOX2: use the skeleton from essntial graph from BOX1 and perform the statistic test to identify v-structure using conservative rule with majority rule
 
-    #edges <- Data[[iteration+1]]$pag$edges
-    #essential_amat <- TetradGetAdjmat(Data[[iteration+1]]$pag)
-    essential_amat <- amat
+    edges <- Data[[iteration+1]]$pag$edges
+    essential_amat <- TetradGetAdjmat(Data[[iteration+1]]$pag)
+    #essential_amat <- amat
     essential_amat [ essential_amat <thred ] <- 0
     essential_amat [ essential_amat >thred] <- 1
     
@@ -399,7 +401,7 @@ for(iteration in 2:n_iter)
   
     
     
-    rule0_graph <- pc.cons.intern2(skeleton, suffStat, indepTest=disCItest, alpha=0.01, version.unf = c(1, 1),maj.rule = TRUE, verbose = FALSE)
+    rule0_graph <- pc.cons.intern2(skeleton, suffStat, indepTest=disCItest, alpha=0.1, version.unf = c(1, 1),maj.rule = TRUE, verbose = FALSE)
     #varNames <- colnames(Data[[i]]$data)
     #pag <- fci(suffStat, indepTest=disCItest,rules = rep(TRUE,10),alpha = 0.01,label=c(varNames))
 
@@ -475,77 +477,65 @@ for(iteration in 2:n_iter)
 # }
 # 
 # 
+    #soft contrain v-structue integrated to prior
+    for(index_sepset_i in 1:n)
+         {
+          for(index_sepset_j in 1:n)
+           {
+           
+              size <- length(rule0_graph[["sk"]]@sepset[[index_sepset_i]][[index_sepset_j]])
 
-#soft contrain v-structue integrated to prior
-
-    
-for(index_sepset_i in 1:n)
-     {
-      for(index_sepset_j in 1:n)
-       {
-          size <- length(rule0_graph[["sk"]]@sepset[[index_sepset_i]][[index_sepset_j]])
-        
-          if (size ==0)
-          {
-            a<- which(vstruct[1,] == index_sepset_i & vstruct[3,] == index_sepset_j , arr.ind = TRUE)
-            if (length(a) !=0)
-            {
-              
-              if (length(a) >1)
+              if (size !=0)
               {
-                for (a_index in 1: length(a))
+                a<- which(vstruct[1,] == index_sepset_i & vstruct[3,] == index_sepset_j , arr.ind = TRUE)
+                if (length(a) !=0)
                 {
+                  if (length(a) >1)
+                  {
+                    for (a_index in 1: length(a))
+                    {
+                     
+                      collider<- vstruct[[2,a[a_index]]]
+                      #ratio <-1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]]
+                      ratio <-max(1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]],0.5)
+                     
+                      if (ratio>0.5)
+                      {
+                        print(paste0(colnames(amat)[index_sepset_i],'-',colnames(amat)[collider],'-',colnames(amat)[index_sepset_j], ' ratio=',ratio))
+                        
+                      }
+                      amat[index_sepset_i,collider] <- max(amat[index_sepset_i,collider],ratio)
+                      amat[index_sepset_j,collider] <- max(amat[index_sepset_j,collider],ratio)
+
+                    }
+                  }
+                  else
+                  {
+                    collider<- vstruct[[2,a]]
+                    
+                    #ratio <-1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]]
+                    
+                    ratio <-max(1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]],0.5)
+                    if (ratio>0.5)
+                    {
+                      print(paste0(colnames(amat)[index_sepset_i],'-',colnames(amat)[collider],'-',colnames(amat)[index_sepset_j], ' ratio=',ratio))
+                      
+                    }
                   
-                  collider<- vstruct[[2,a[a_index]]]
-                   #ratio <-1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]]
-                  
-                  ratio <-max(1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]],0.5)
-                  amat[index_sepset_i,collider] <- max(amat[index_sepset_i,collider],ratio)
-                  amat[index_sepset_j,collider] <- max(amat[index_sepset_j,collider],ratio)
+                    amat[index_sepset_i,collider] <- max(amat[index_sepset_i,collider],ratio)
+                    amat[index_sepset_j,collider] <- max(amat[index_sepset_j,collider],ratio)
+                  }
+
                   
                 }
+
+
               }
-              
-              
+
+
             }
-              
           }
-          else
-          {
-            a<- which(vstruct[1,] == index_sepset_i & vstruct[3,] == index_sepset_j , arr.ind = TRUE)
-            if (length(a) !=0)
-            {
-              if (length(a) >1)
-              {
-                for (a_index in 1: length(a))
-                {
-                  
-                  collider<- vstruct[[2,a[a_index]]]
-                   #ratio <-1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]]
-                  ratio <-max(1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]],0.5)
-                  amat[index_sepset_i,collider] <- max(amat[index_sepset_i,collider],ratio)
-                  amat[index_sepset_j,collider] <- max(amat[index_sepset_j,collider],ratio)
-                  
-                }
-              }
-              else
-              {
-                collider<- vstruct[[2,a]]
-                #ratio <-1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]]
-                ratio <-max(1-rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]],0.5)
-                amat[index_sepset_i,collider] <- max(amat[index_sepset_i,collider],ratio)
-                amat[index_sepset_j,collider] <- max(amat[index_sepset_j,collider],ratio)
-              }
-              
-              
-            }                    
-            
-            
-          }
-        
 
-        }
-      }
 
 
 
@@ -607,6 +597,10 @@ posterior_obs [ posterior_obs <thred ] <- 0
 diag(posterior_obs) <- 0
 
 learned_mag <- matrix(0, n, n)
+ 
+rownames(learned_mag) <- colnames(dataset)
+colnames(learned_mag) <- colnames(dataset)
+
 learned_mag[posterior_obs==1 & amat_undirect==0 ] <- 1
 learned_mag[posterior_obs==1 & amat_undirect==3 ] <- 1
 learned_mag[posterior_obs==0 & t(posterior_obs)==0 & amat_undirect==3 ] <- 3
@@ -622,10 +616,22 @@ log.txt <- tic.log(format = TRUE)
   source("precisionrecall_undirected_edge.R")
   true_mag_amat <- amat(true_mag)
   
+
   
-  
-  
- 
+  # tps <- (((learned_mag-true_mag_amat) ==0) & (t(learned_mag)-t(true_mag_amat) ==0)) & (learned_mag!=0)
+  # tp <- length(tps[tps==TRUE])
+  # 
+  # tps_undirect <- ((learned_mag ==3) & (learned_mag-true_mag_amat ==2)& (t(learned_mag)-t(true_mag_amat) !=2))
+  # tps_bidirect <- ((learned_mag ==3) & (true_mag_amat ==1) & (learned_mag-true_mag_amat ==2)& (t(learned_mag)-t(true_mag_amat) ==2))
+  # tp_bidirect <- length(tps_bidirect[tps_bidirect==TRUE])
+  # tp_undirect <- length(tps_undirect[tps_undirect==TRUE])
+  # 
+  # fns <-   (true_mag_amat==0 & t(true_mag_amat)==1)   & (((learned_mag-true_mag_amat) !=0) | (t(learned_mag)-t(true_mag_amat) !=0)) & (learned_mag!=3 & t(learned_mag)!=3)
+  # fn <- length(fns[fns==TRUE])
+  # 
+  # tp<-  tp+0.5*(tp_undirect+tp_bidirect)
+  # fp <- 0.5*length(fps[fps==TRUE]) + 0.5*length(fps2[fps2==TRUE])
+  # recall <- tp/(tp+fn)
   true_mag_amat<- true_mag_amat[order(rownames(true_mag_amat)),order(colnames(true_mag_amat))]
 
   k <-precisionrecall(learned_mag, true_mag_amat)
