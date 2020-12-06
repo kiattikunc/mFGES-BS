@@ -5,7 +5,7 @@ precisionrecall <- function(pag,gtpag){
  
  tps_undirect <- ((pag ==3) & (pag-gtpag ==2)& (t(pag)-t(gtpag) !=2))
  tps_bidirect <- ((pag ==3) & (gtpag ==1) & (pag-gtpag ==2)& (t(pag)-t(gtpag) ==2))
- tp_bidirect <- 0.5*length(tps_bidirect[tps_bidirect==TRUE])
+ tp_bidirect <- length(tps_bidirect[tps_bidirect==TRUE])
  tp_undirect <- length(tps_undirect[tps_undirect==TRUE])
 
 
@@ -65,6 +65,6 @@ BSF <- 0.5*(tp/a+tn/i-fp/i-fn/a)
   precision <- tp/(tp+fp)
   recall <- tp/(tp+fn)
 
-  return_list <- list('precision'=precision,'recall'=recall,'BSF'=BSF,'tp'=tp,'fp'=fp,'fn'=fn,'tn'=tn,'nEdgesGtPag'=nEdgesGtPag,'a'=a,'i'=i,'nEdgesPag'=nEdgesPag,'tps_undirect'=tp_undirect)
+  return_list <- list('precision'=precision,'recall'=recall,'BSF'=BSF,'tp'=tp,'fp'=fp,'fn'=fn,'tn'=tn,'nEdgesGtPag'=nEdgesGtPag,'a'=a,'i'=i,'nEdgesPag'=nEdgesPag,'nUndirectEdges'=nUnEdges)
 
 }

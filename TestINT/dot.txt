@@ -1,0 +1,41 @@
+"","x"
+"1","digraph g {
+ ""LVEDVOLUME"" -> ""STROKEVOLUME"" [arrowtail=none, arrowhead=none]; 
+ ""HISTORY"" -> ""LVEDVOLUME"" [arrowtail=none, arrowhead=normal]; 
+ ""VENTMACH"" -> ""VENTTUBE"" [arrowtail=none, arrowhead=normal]; 
+ ""PAP"" -> ""PULMEMBOLUS"" [arrowtail=none, arrowhead=none]; 
+ ""PVSAT"" -> ""SAO2"" [arrowtail=none, arrowhead=normal]; 
+ ""INTUBATION"" -> ""PRESS"" [arrowtail=none, arrowhead=normal]; 
+ ""HYPOVOLEMIA"" -> ""LVEDVOLUME"" [arrowtail=none, arrowhead=normal]; 
+ ""INTUBATION"" -> ""VENTLUNG"" [arrowtail=none, arrowhead=normal]; 
+ ""KINKEDTUBE"" -> ""VENTLUNG"" [arrowtail=none, arrowhead=normal]; 
+ ""ERRCAUTER"" -> ""HRSAT"" [arrowtail=none, arrowhead=normal]; 
+ ""PRESS"" -> ""VENTTUBE"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""ARTCO2"" -> ""CATECHOL"" [arrowtail=none, arrowhead=normal]; 
+ ""CATECHOL"" -> ""SAO2"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""CATECHOL"" -> ""HR"" [arrowtail=none, arrowhead=normal]; 
+ ""KINKEDTUBE"" -> ""PRESS"" [arrowtail=none, arrowhead=normal]; 
+ ""ANAPHYLAXIS"" -> ""TPR"" [arrowtail=none, arrowhead=none]; 
+ ""EXPCO2"" -> ""VENTLUNG"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""ARTCO2"" -> ""EXPCO2"" [arrowtail=none, arrowhead=normal]; 
+ ""HR"" -> ""HRBP"" [arrowtail=none, arrowhead=normal]; 
+ ""FIO2"" -> ""PVSAT"" [arrowtail=none, arrowhead=normal]; 
+ ""VENTALV"" -> ""VENTLUNG"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""CVP"" -> ""LVEDVOLUME"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""VENTLUNG"" -> ""VENTTUBE"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""BP"" -> ""CO"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""HISTORY"" -> ""STROKEVOLUME"" [arrowtail=none, arrowhead=normal]; 
+ ""DISCONNECT"" -> ""VENTTUBE"" [arrowtail=none, arrowhead=normal]; 
+ ""PVSAT"" -> ""VENTALV"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""MINVOL"" -> ""VENTLUNG"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""CATECHOL"" -> ""TPR"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""INTUBATION"" -> ""VENTALV"" [arrowtail=none, arrowhead=normal]; 
+ ""CO"" -> ""STROKEVOLUME"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""BP"" -> ""TPR"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""INTUBATION"" -> ""MINVOL"" [arrowtail=none, arrowhead=normal]; 
+ ""ERRLOWOUTPUT"" -> ""HRBP"" [arrowtail=none, arrowhead=normal]; 
+ ""HR"" -> ""HRSAT"" [arrowtail=none, arrowhead=normal]; 
+ ""CO"" -> ""HR"" [dir=both, arrowtail=normal, arrowhead=none]; 
+ ""MINVOLSET"" -> ""VENTMACH"" [arrowtail=none, arrowhead=none]; 
+ ""HYPOVOLEMIA"" -> ""STROKEVOLUME"" [arrowtail=none, arrowhead=normal]; 
+}"

@@ -117,7 +117,7 @@ local_BIC <- matrix(0, nrow = n+1, ncol = n_iter+2)
 #type == 'single'
 # In each experiment there is n (target) intervention on each variable,
 # except the last experiment which has no interventions.
-for(iteration in 2:n_iter)
+for(iteration in 11:n_iter)
 {
   #nexp <- sample(1:n, 1)+1
   nexp <-iteration
@@ -288,6 +288,7 @@ for(iteration in 2:n_iter)
   
 
   # plain model averaging concept from frequentist approach
+  # plain model averaging concept from frequentist approach
   amat<- matrix(0, n, n)
   amat_undirect <- matrix(0, n, n)
   
@@ -297,16 +298,17 @@ for(iteration in 2:n_iter)
     
     { 
       edges <- Data[[i]]$pag$edges
-     
+      
       amat_temp <- TetradGetAdjmat(Data[[i]]$pag)
-     
+      amat_temp2 <- matrix(0, n, n) # for undirected edge for intv dataset
       rownames(amat_temp) <- colnames(dataset)
       colnames(amat_temp) <- colnames(dataset)
       
       ##split undirect from matrix
-      amat_temp <- amat_temp[order(rownames(amat_temp)),order(colnames(amat_temp))]
-     
+      #amat_temp <- amat_temp[order(rownames(amat_temp)),order(colnames(amat_temp))]
+      amat_temp2 [ amat_temp ==t(amat_temp) & amat_temp ==3  ] <- 0.5
       amat_temp [ amat_temp ==t(amat_temp)  ] <- 0
+      
       #amat <- round(amat/nrow(E), digits=2)
       #amat_temp <- Data[[i]]$pag@amat
       # if (i==nrow(E))
@@ -314,9 +316,9 @@ for(iteration in 2:n_iter)
       #   amat <- amat+nrow(E)*amat_temp+amat_temp
       # }
       # else{
-      amat <- amat+amat_temp
+      amat <- amat+amat_temp + amat_temp2
       
-  
+      
     }
     
   }  

@@ -1,4 +1,5 @@
 posteriorcal <- function(prior,graphs,Data,n){
+library(bnlearn)
 #use obs to cal the score
 #prior_uniform<- matrix(1/2, n, n)
 prior_uniform<- prior
@@ -22,9 +23,9 @@ for (run in length(Data))
       if (nodeA != nodeB)
       {
         res = set.arc(indep_graphs,rownames(prior_uniform)[nodeA],rownames(prior_uniform)[nodeB])
-        depend_score <- score(res,Data[[run]]$data, type = "bde")
+        depend_score <- bnlearn::score(res,Data[[run]]$data, type = "bde")
         res3 <- drop.arc(res, rownames(prior_uniform)[nodeA],rownames(prior_uniform)[nodeB])
-        independ_score <- score(res3, Data[[run]]$data, type = "bde")
+        independ_score <- bnlearn::score(res3, Data[[run]]$data, type = "bde")
     
       
         indepence_posterior_tmp[nodeA,nodeB] <- ((1-prior_uniform[nodeA,nodeB])*independ_score)/(((prior_uniform[nodeA,nodeB])*depend_score)+(1-prior_uniform[nodeA,nodeB])*independ_score)

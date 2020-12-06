@@ -15,7 +15,7 @@ iterFGES <- list()
 thred <- 0.5
 target <-5
 set.seed(5)
-n_iter <-35
+n_iter <-2
 n_intervent <- 10000
 #load observational dataset
 set <-'trainingData_ALARM_L5_10k.csv'
@@ -297,16 +297,17 @@ for(iteration in 2:n_iter)
     
     { 
       edges <- Data[[i]]$pag$edges
-     
+      
       amat_temp <- TetradGetAdjmat(Data[[i]]$pag)
-     
+      amat_temp2 <- matrix(0, n, n) # for undirected edge for intv dataset
       rownames(amat_temp) <- colnames(dataset)
       colnames(amat_temp) <- colnames(dataset)
       
       ##split undirect from matrix
-      amat_temp <- amat_temp[order(rownames(amat_temp)),order(colnames(amat_temp))]
-     
+      #amat_temp <- amat_temp[order(rownames(amat_temp)),order(colnames(amat_temp))]
+      amat_temp2 [ amat_temp ==t(amat_temp) & amat_temp ==3  ] <- 0.5
       amat_temp [ amat_temp ==t(amat_temp)  ] <- 0
+      
       #amat <- round(amat/nrow(E), digits=2)
       #amat_temp <- Data[[i]]$pag@amat
       # if (i==nrow(E))
@@ -314,9 +315,9 @@ for(iteration in 2:n_iter)
       #   amat <- amat+nrow(E)*amat_temp+amat_temp
       # }
       # else{
-      amat <- amat+amat_temp
+      amat <- amat+amat_temp + amat_temp2
       
-  
+      
     }
     
   }  
@@ -344,9 +345,9 @@ for(iteration in 2:n_iter)
     
 ## BOX2: use the skeleton from essntial graph from BOX1 and perform the statistic test to identify v-structure using conservative rule with majority rule
 
-    edges <- Data[[iteration+1]]$pag$edges
-    essential_amat <- TetradGetAdjmat(Data[[iteration+1]]$pag)
-    #essential_amat <- amat
+    #edges <- Data[[iteration+1]]$pag$edges
+    #essential_amat <- TetradGetAdjmat(Data[[iteration+1]]$pag)
+    essential_amat <- amat
     essential_amat [ essential_amat <thred ] <- 0
     essential_amat [ essential_amat >thred] <- 1
     
@@ -368,10 +369,10 @@ for(iteration in 2:n_iter)
    #df<-Data[[1]]$data
     df<-Data[[obs_index]]$dat
     #### combine all dataset to identify v-strucure
-    # for(data_index in 2:obs_index)
-    # {
-    #   df <- rbind(df, Data[[data_index]]$data)
-    # }
+    for(data_index in 2:obs_index)
+    {
+      df <- rbind(df, Data[[data_index]]$data)
+    }
     ##########
     dataset_pcalg<- df
     cols <- colnames(dataset_pcalg)
@@ -483,8 +484,9 @@ for(iteration in 2:n_iter)
           for(index_sepset_j in 1:n)
            {
            
-              size <- length(rule0_graph[["sk"]]@sepset[[index_sepset_i]][[index_sepset_j]])
-
+            #size <- length(rule0_graph[["sk"]]@sepset[[index_sepset_i]][[index_sepset_j]])
+            size <- length(rule0_graph[["sepsetratio"]][[index_sepset_i]][[index_sepset_j]])
+        
               if (size !=0)
               {
                 a<- which(vstruct[1,] == index_sepset_i & vstruct[3,] == index_sepset_j , arr.ind = TRUE)
@@ -586,25 +588,22 @@ for(iteration in 2:n_iter)
    #posterior<- posteriorcal(true_mag_amat,amat,indep_graphs,Data,n)
     #method2 - prior/N_data*3
   
-   posterior<- posteriorcal(amat,indep_graphs,Data,n)
-   posterior_obs <-posterior$indepence_posterior_obs
-   
-   
-   
-posterior_obs<- 1-posterior_obs
-posterior_obs [ posterior_obs >thred] <- 1
-posterior_obs [ posterior_obs <thred ] <- 0
-diag(posterior_obs) <- 0
-
-learned_mag <- matrix(0, n, n)
- 
-rownames(learned_mag) <- colnames(dataset)
-colnames(learned_mag) <- colnames(dataset)
-
-learned_mag[posterior_obs==1 & amat_undirect==0 ] <- 1
-learned_mag[posterior_obs==1 & amat_undirect==3 ] <- 1
-learned_mag[posterior_obs==0 & t(posterior_obs)==0 & amat_undirect==3 ] <- 3
-
+    posterior<- posteriorcal(amat,indep_graphs,Data,n)
+    posterior_obs <-posterior$indepence_posterior_obs
+    
+    
+    
+    posterior_obs<- 1-posterior_obs
+    posterior_obs [ posterior_obs >thred] <- 1
+    posterior_obs [ posterior_obs <thred ] <- 0
+    diag(posterior_obs) <- 0
+    
+    learned_mag <- matrix(0, n, n)
+    learned_mag[posterior_obs==1] <- 1
+    #learned_mag[posterior_obs==1 & amat_undirect==0 ] <- 1
+    #learned_mag[posterior_obs==1 & amat_undirect==3 ] <- 1
+    learned_mag[posterior_obs==0 & t(posterior_obs)==0 & amat_undirect==3 ] <- 3
+    
 
 ############## STOP #########################
 toc(log = TRUE, quiet = TRUE)
@@ -662,12 +661,21 @@ log.txt <- tic.log(format = TRUE)
   path <-"TestINT/"
   write.csv(E4,paste0(path,iteration,set4))
   
-
-
-# library(DOT)
 # 
-# graph_dot <- tetradrunner.tetradGraphToDot(Data[[1]][["pag"]][["graph"]])
-# dot(graph_dot)
+# 
+#   library(DOT)
+#   # 
+#   # graph_dot <- tetradrunner.tetradGraphToDot(Data[[1]][["pag"]][["graph"]])
+#   # dot(graph_dot)
+#   
+#   source("graphutils.R")
+#   # graph_dot <- tetradrunner.tetradGraphToDot(tetradrunner$graph)
+#   # 
+#    varNames <- colnames(dataset)
+#    x <- ugraphToTetradGraph(learned_mag, varNames)
+#    dot(x)
+#   
+  
 
   set1 <- paste0(n_iter,"-precision.csv")
   set2 <- paste0(n_iter,"-recall.csv")

@@ -15,7 +15,7 @@ iterFGES <- list()
 thred <- 0.5
 target <-5
 set.seed(5)
-n_iter <-35
+n_iter <-2
 n_intervent <- 10000
 #load observational dataset
 set <-'trainingData_ALARM_L5_10k.csv'
