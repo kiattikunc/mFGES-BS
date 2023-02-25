@@ -47,9 +47,21 @@ pc.cons.intern2 <- function(sk, suffStat, indepTest, alpha,
   
   unfTripl <- vers <- rep(NA,min(p*p,100000)) ## index p x p
   counter <- 0
+ 
+  temp <- rep(NA, p)
+  sepsetratio<- list()
+  sepsetratio <- skeleton@sepset
+  
+  for (j in 1:p) {
+    for (i in 1:p) {
+      sepsetratio[[j]][[i]]<- temp
+    }
+  }
+
   
   
-  sepsetratio <- sk@sepset
+  
+
   if (sum(g) > 0) {
     ind <- which(g == 1, arr.ind = TRUE) # logical; should array indices be returned when x is an array
     tripleMatrix <- NULL
@@ -92,11 +104,12 @@ pc.cons.intern2 <- function(sk, suffStat, indepTest, alpha,
                                sk@sepset[[a]][[c]], sk@sepset[[c]][[a]],
                                suffStat = suffStat, indepTest = indepTest, alpha = alpha,
                                version.unf = version.unf, maj.rule = maj.rule, verbose = verbose)
+        
           
-          sepsetratio[[a]][[c]]<- r.abc$ratio
-          sepsetratio[[c]][[a]]<- r.abc$ratio
+          sepsetratio[[a]][[c]][[b]]= r.abc$ratio
+          sepsetratio[[c]][[a]][[b]]= r.abc$ratio
          
-          
+         
           if (verbose) {
             cat("\ndecision:", r.abc$decision,"\n")
           }
@@ -124,13 +137,21 @@ pc.cons.intern2 <- function(sk, suffStat, indepTest, alpha,
           
           
          
-          #print(r.abc$ratio)
+         
           
         }
+        
     }
   }
+  
+ 
+    
+  
+  
+  
   length(unfTripl) <- length(vers) <- counter
   list(unfTripl = unfTripl, vers = vers, sk = sk, sepsetratio=sepsetratio)
+
 }
 
 
@@ -201,8 +222,11 @@ checkTriple <- function(a, b, c, nbrsA, nbrsC, sepsetA, sepsetC,
     }
   }
   ## now with the neighbours of c
-  if ((nn <- length(nbrsC)) > 0) {
+  if ((nn <- length(nbrsC)) >0 && nn <5 ) {
+    
+   
     allComb <- expand.grid(lapply(integer(nn), function(.) 0:1))
+   
     ## loop through all subsets of neighbours
     for (i in 1:nrow(allComb)) { ## == 1:(2^nn)
       S <- nbrsC[which(allComb[i,] != 0)]
@@ -224,7 +248,7 @@ checkTriple <- function(a, b, c, nbrsA, nbrsC, sepsetA, sepsetC,
   ratio<- sum(tmp)/length(tmp)
   
   if (verbose) {
-    cat("\nCount:",sum(tmp)," N-",length(tmp), "\nprob:",sum(tmp)/length(tmp),"\ratio=:",ratio,"\n")
+    cat("\nCount:",sum(tmp)," N-",length(tmp), "\nprob:",sum(tmp)/length(tmp),"\nratio:",ratio,"\n")
   }
   
   if (all(tmp)) {
@@ -282,7 +306,7 @@ checkTriple <- function(a, b, c, nbrsA, nbrsC, sepsetA, sepsetC,
           ## separates a and c given the neighbours
           if (b %nin% sepsetA) sepsetA <- c(sepsetA,b)
           if (b %nin% sepsetC) sepsetC <- c(sepsetC,b)
-        } else if (sum(tmp)/length(tmp) < 0.6 || sum(tmp)/length(tmp) > 0.4) {
+        } else if (sum(tmp)/length(tmp) ==0.5) {
           ## define the triple as unfaithful, because half of the
           ## times b is in the set and half of them in not in
           res <- 3 ## in SOME sets
